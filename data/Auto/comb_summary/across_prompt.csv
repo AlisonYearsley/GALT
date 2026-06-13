@@ -1,0 +1,4 @@
+prompt_stem,num_records,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,recall,precision,f1,num_hallucinations,edit_dist_experiment,edit_dist_model
+Basic,36,5.963,10.4166,40.713,6.4629,11.1991,18.0834,4.7051,2.9446,59.9445,60.9445,0.9898,0.9984,0.994,0.0648,,22.9259
+SpecifyEx,36,5.8797,8.963,40.213,4.574,9.5874,17.3611,5.2569,2.8134,56.8889,57.8889,0.9788,0.9892,0.9838,0.0648,39.7038,20.6078
+SpecifyExCats,36,6.8241,0.0,41.2778,1.8426,6.0633,12.0556,3.728,2.0,48.1019,49.1019,0.9973,0.9982,0.9978,0.0741,38.1852,14.3426

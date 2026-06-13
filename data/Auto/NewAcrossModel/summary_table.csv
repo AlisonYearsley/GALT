@@ -1,0 +1,10 @@
+model_id,run_name,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,recall,precision,f1,num_hallucinations,hallucinated_names
+claude,1claude_b5277e64,3,15,42,21,35,42,12.12,3.32,73,74,1.0,1.0,1.0,0,
+claude,2claude_2d74ae2a,3,17,42,15,24,42,15.59,3.36,69,70,1.0,1.0,1.0,0,
+claude,3claude_e78b0ccd,3,16,42,18,28.33,42,12.34,3.24,66,67,1.0,1.0,1.0,0,
+gemini,1gemini_eeace969,8,0,42,1,5.25,12,3.49,2.0,50,51,1.0,1.0,1.0,0,
+gemini,2gemini_9d3ae74f,5,11,42,4,8.4,14,3.78,2.9,58,59,1.0,1.0,1.0,0,
+gemini,3gemini_2413fcfc,5,9,42,1,8.4,15,5.03,2.98,56,57,1.0,1.0,1.0,0,
+openai,1openai_55b7eaf6,5,19,39,3,7.8,11,3.56,2.92,63,64,0.9286,0.9286,0.9286,3,Suraromu (Slalom); Akari (Light Up); Hashiwokakero (Bridges)
+openai,2openai_da4c8827,5,17,42,2,8.4,12,4.04,3.0,64,65,1.0,1.0,1.0,0,
+openai,3openai_65526f2d,7,14,42,1,6,13,4.28,2.52,63,64,1.0,1.0,1.0,0,

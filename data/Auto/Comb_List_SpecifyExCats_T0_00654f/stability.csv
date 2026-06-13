@@ -1,0 +1,11 @@
+experiment_id,scope,total_pairs,always_together,stability_score
+Comb_List_SpecifyExCats_T0_00654f,claude-haiku-4-5-20251001,121,121,1.0
+Comb_List_SpecifyExCats_T0_00654f,claude-sonnet-4-6,231,77,0.3333
+Comb_List_SpecifyExCats_T0_00654f,claude-opus-4-6,210,49,0.2333
+Comb_List_SpecifyExCats_T0_00654f,models/gemini-2.5-flash-lite,115,115,1.0
+Comb_List_SpecifyExCats_T0_00654f,gpt-5.4-nano-2026-03-17,365,96,0.263
+Comb_List_SpecifyExCats_T0_00654f,gpt-5.4-mini-2026-03-17,260,82,0.3154
+Comb_List_SpecifyExCats_T0_00654f,gpt-5.4-2026-03-05,267,75,0.2809
+Comb_List_SpecifyExCats_T0_00654f,models/gemini-2.5-flash,177,47,0.2655
+Comb_List_SpecifyExCats_T0_00654f,models/gemini-2.5-pro,238,29,0.1218
+Comb_List_SpecifyExCats_T0_00654f,experiment,675,6,0.0089

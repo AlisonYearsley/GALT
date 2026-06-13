@@ -1,0 +1,9 @@
+Here's the taxonomy with all 42 games placed into exactly 7 categories, no duplicates:
+1. Number & symbol logic — puzzles where the core task is placing or eliminating numbers/symbols under logical constraints: Sudoku, Hitori, Ripple Effect, Makaro, Nansuke, Juosan, Kurodoko, Usowan
+2. Path & loop drawing — puzzles where you trace a continuous line or snake through the grid: Slitherlink, Masyu, Moon-or-Sun, Dotchi-Loop, Mid-loop, Nagareru, Suraromu, Hebi, Pencils
+3. Region division — puzzles where you partition the grid into valid shapes or polyominoes: Fillomino, Shikaku, Five Cells, Double Choco, LITS, Norinori, Nuritwin, Evolomino, Sashigane
+4. Object placement & movement — puzzles involving moving, routing, or placing discrete tokens: Yosenabe, Satogaeri, Chained Block, Numberlink, Sto-stone, Choco Banana
+5. Cell painting & shading — puzzles where the task is deciding which cells to fill/shade: Nurikabe, Tilepaint, Shakashaka, Nurimeizu, Nurimisaki
+6. Connection & bridges — puzzles about building a connected network of links: Hashiwokakero
+7. Area & constraint logic — puzzles combining regional black-cell placement with numerical clues about groups or visibility: Heyawake, Kurotto, Akari, Yajilin
+Several of these games sit near category boundaries (Akari involves both lighting and black-cell placement; Kurotto overlaps with region logic), so some assignments involve judgement calls. Happy to adjust any categorisation if you have a different principle in mind.

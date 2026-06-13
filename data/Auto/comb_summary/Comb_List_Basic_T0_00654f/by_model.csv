@@ -1,0 +1,10 @@
+experiment_id,model_id,num_records,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,recall,precision,f1,num_hallucinations,edit_dist_experiment,edit_dist_model
+Comb_List_Basic_T0_00654f,claude-haiku-4-5-20251001,1,4.667,10.667,42.0,6.0,9.1,14.667,3.62,3.61,68.333,69.333,1.0,1.0,1.0,0.0,,19.667
+Comb_List_Basic_T0_00654f,claude-opus-4-6,1,6.667,12.333,42.0,1.0,6.417,14.0,5.737,2.93,61.0,62.0,1.0,1.0,1.0,0.0,,20.667
+Comb_List_Basic_T0_00654f,claude-sonnet-4-6,1,6.0,17.0,42.0,1.333,7.133,11.0,3.803,2.993,65.0,66.0,1.0,1.0,1.0,0.0,,24.333
+Comb_List_Basic_T0_00654f,gpt-5.4-2026-03-05,1,6.0,13.667,40.667,0.0,6.867,16.667,6.533,3.0,60.333,61.333,1.0,1.0,1.0,0.0,,25.667
+Comb_List_Basic_T0_00654f,gpt-5.4-mini-2026-03-17,1,14.0,0.0,40.667,0.0,3.61,15.0,5.477,2.0,54.667,55.667,0.968,1.0,0.984,0.0,,19.0
+Comb_List_Basic_T0_00654f,gpt-5.4-nano-2026-03-17,1,11.0,0.0,41.667,0.667,3.877,12.333,3.52,2.0,52.667,53.667,1.0,1.0,1.0,0.0,,27.0
+Comb_List_Basic_T0_00654f,models/gemini-2.5-flash,1,4.0,8.0,41.333,3.333,10.333,21.667,8.33,3.217,57.333,58.333,0.984,0.984,0.984,0.667,,24.0
+Comb_List_Basic_T0_00654f,models/gemini-2.5-flash-lite,1,4.0,6.0,42.0,3.0,10.5,17.0,6.24,2.93,52.0,53.0,1.0,1.0,1.0,0.0,,0.0
+Comb_List_Basic_T0_00654f,models/gemini-2.5-pro,1,5.333,11.333,42.0,3.0,8.167,12.667,3.757,2.867,58.667,59.667,1.0,1.0,1.0,0.0,,24.333

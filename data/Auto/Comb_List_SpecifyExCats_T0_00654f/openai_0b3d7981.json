@@ -1,0 +1,14 @@
+{
+  "experiment": "Comb_List_SpecifyExCats_T0_00654f",
+  "run_id": "openai_0b3d7981",
+  "timestamp": "2026-04-09T16:03:08.266218",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "run_index": 2,
+  "prompt1": "Comb/List/SpecifyExCats.txt",
+  "prompt2": "csvformatSubcat.txt",
+  "temperature": 0,
+  "games_path": "data/Reference/Games.csv",
+  "pdf_path": null,
+  "taxonomy": "Here is a simple single-depth taxonomy of grid-based logic games, with each game placed into exactly one of 7 categories:\n\n## 1. Number Placement\n- Fillomino\n- Sudoku\n- Ripple Effect\n- Kurotto\n- Nansuke\n- Nuritwin\n\n## 2. Region Division\n- Shikaku\n- Heyawake\n- Hitori\n- Kurodoko\n- Nurikabe\n- Choco Banana\n- Double Choco\n- Five Cells\n- Evolomino\n\n## 3. Loop and Path\n- Slitherlink\n- Masyu\n- Hashiwokakero\n- Numberlink\n- Yajilin\n- Dotchi-Loop\n- Mid-loop\n- Nagareru\n- Hebi\n- Satogaeri\n\n## 4. Shading and Coloring\n- Akari\n- LITS\n- Norinori\n- Nurimeizu\n- Nurimisaki\n- Tilepaint\n- Usowan\n- Moon-or-Sun\n- Suraromu\n\n## 5. Shape and Polyomino\n- Shakashaka\n- Sashigane\n- Pencils\n- Sto-stone\n- Chained Block\n- Juosan\n\n## 6. Connectivity and Partition\n- Makaro\n- Yosenabe\n- Nure? ",
+  "format": "Type,Name,Parent\ncategory,Number Placement,\ncategory,Region Division,\ncategory,Loop and Path,\ncategory,Shading and Coloring,\ncategory,Shape and Polyomino,\ncategory,Connectivity and Partition,\ncategory,Other,\ngame,Fillomino,Number Placement\ngame,Sudoku,Number Placement\ngame,Ripple Effect,Number Placement\ngame,Kurotto,Number Placement\ngame,Nansuke,Number Placement\ngame,Nuritwin,Number Placement\ngame,Shikaku,Region Division\ngame,Heyawake,Region Division\ngame,Hitori,Region Division\ngame,Kurodoko,Region Division\ngame,Nurikabe,Region Division\ngame,Choco Banana,Region Division\ngame,Double Choco,Region Division\ngame,Five Cells,Region Division\ngame,Evolomino,Region Division\ngame,Slitherlink,Loop and Path\ngame,Masyu,Loop and Path\ngame,Hashiwokakero,Loop and Path\ngame,Numberlink,Loop and Path\ngame,Yajilin,Loop and Path\ngame,Dotchi-Loop,Loop and Path\ngame,Mid-loop,Loop and Path\ngame,Nagareru,Loop and Path\ngame,Hebi,Loop and Path\ngame,Satogaeri,Loop and Path\ngame,Akari,Shading and Coloring\ngame,LITS,Shading and Coloring\ngame,Norinori,Shading and Coloring\ngame,Nurimeizu,Shading and Coloring\ngame,Nurimisaki,Shading and Coloring\ngame,Tilepaint,Shading and Coloring\ngame,Usowan,Shading and Coloring\ngame,Moon-or-Sun,Shading and Coloring\ngame,Suraromu,Shading and Coloring\ngame,Shakashaka,Shape and Polyomino\ngame,Sashigane,Shape and Polyomino\ngame,Pencils,Shape and Polyomino\ngame,Sto-stone,Shape and Polyomino\ngame,Chained Block,Shape and Polyomino\ngame,Juosan,Shape and Polyomino\ngame,Makaro,Connectivity and Partition\ngame,Yosenabe,Connectivity and Partition\ngame,Nurimeizu,Other"
+}

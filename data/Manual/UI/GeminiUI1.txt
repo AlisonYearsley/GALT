@@ -1,0 +1,71 @@
+Here is a taxonomy of the logic games you provided, organized into seven distinct categories based on their primary solving mechanics.
+
+## 1. Loop Construction
+Games in this category focus on drawing a single, continuous, non-intersecting line or "loop" through the grid based on specific constraints.
+
+* **Dotchi-Loop**
+* **Hebi**
+* **Masyu**
+* **Mid-loop**
+* **Slitherlink**
+* **Suraromu**
+
+## 2. Cell Shading & Deduction
+These puzzles require you to determine which cells should be shaded (blackened) and which should remain white, often ensuring shaded cells don't touch or that white cells remain connected.
+
+* **Heyawake**
+* **Hitori**
+* **Kurodoko**
+* **Norinori**
+* **Nurikabe**
+* **Nuritwin**
+* **Sto-stone**
+* **Usowan**
+
+## 3. Region Partitioning & Polyominoes
+The core mechanic here involves dividing the grid into smaller shapes or placing specific geometric figures (like polyominoes) into pre-defined regions.
+
+* **Chained Block**
+* **Choco Banana**
+* **Double Choco**
+* **Evolomino**
+* **Fillomino**
+* **Five Cells**
+* **LITS**
+* **Shikaku**
+
+## 4. Numerical Placement
+Solve these by filling the grid cells with digits. These games rely on arithmetic constraints, sequences, or the "Latin Square" principle where numbers cannot repeat in a given set.
+
+* **Juosan**
+* **Makaro**
+* **Nansuke**
+* **Ripple Effect**
+* **Sudoku**
+
+## 5. Pathfinding & Connectivity
+Rather than a closed loop, these games require connecting nodes or areas using paths, bridges, or lines that do not necessarily return to their starting point.
+
+* **Hashiwokakero**
+* **Nagareru**
+* **Numberlink**
+* **Pencils**
+* **Sashigane**
+
+## 6. Direction & Visibility Logic
+These puzzles use arrows, "light," or line-of-sight mechanics to dictate how far an influence travels across the grid or where specific markers must be placed.
+
+* **Akari**
+* **Nurimeizu**
+* **Nurimisaki**
+* **Shakashaka**
+* **Yajilin**
+
+## 7. Object Movement & Area Fulfillment
+These games involve moving "pieces" into specific spots or filling certain areas of the grid until specific count-based or regional criteria are met.
+
+* **Kurotto**
+* **Moon-or-Sun**
+* **Satogaeri**
+* **Tilepaint**
+* **Yosenabe**

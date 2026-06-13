@@ -1,0 +1,25 @@
+experiment_id,phase,temperature,prompt1,pdf_path,created_at
+Comb_List_Basic_T0_cecd77,List,0,Comb/List/Basic.txt,,2026-04-09T15:10:57.197947
+Comb_List_SpecifyEx_T0_cecd77,List,0,Comb/List/SpecifyEx.txt,,2026-04-09T15:10:57.197966
+Comb_List_SpecifyExCats_T0_cecd77,List,0,Comb/List/SpecifyExCats.txt,,2026-04-09T15:10:57.197973
+Comb_List_Basic_T1_cecd77,List,1,Comb/List/Basic.txt,,2026-04-09T15:10:57.197979
+Comb_List_SpecifyEx_T1_cecd77,List,1,Comb/List/SpecifyEx.txt,,2026-04-09T15:10:57.197983
+Comb_List_SpecifyExCats_T1_cecd77,List,1,Comb/List/SpecifyExCats.txt,,2026-04-09T15:10:57.197988
+Comb_Rules_Basic_T0_e3f078,Rules,0,Comb/Rules/Basic.txt,data/Reference/Game Rules.pdf,2026-04-09T15:10:57.198002
+Comb_Rules_SpecifyEx_T0_e3f078,Rules,0,Comb/Rules/SpecifyEx.txt,data/Reference/Game Rules.pdf,2026-04-09T15:10:57.198007
+Comb_Rules_SpecifyExCats_T0_e3f078,Rules,0,Comb/Rules/SpecifyExCats.txt,data/Reference/Game Rules.pdf,2026-04-09T15:10:57.198012
+Comb_Rules_Basic_T1_e3f078,Rules,1,Comb/Rules/Basic.txt,data/Reference/Game Rules.pdf,2026-04-09T15:10:57.198016
+Comb_Rules_SpecifyEx_T1_e3f078,Rules,1,Comb/Rules/SpecifyEx.txt,data/Reference/Game Rules.pdf,2026-04-09T15:10:57.198023
+Comb_Rules_SpecifyExCats_T1_e3f078,Rules,1,Comb/Rules/SpecifyExCats.txt,data/Reference/Game Rules.pdf,2026-04-09T15:10:57.198028
+Comb_List_Basic_T0_00654f,List,0,Comb/List/Basic.txt,,2026-04-09T15:21:40.695178
+Comb_List_SpecifyEx_T0_00654f,List,0,Comb/List/SpecifyEx.txt,,2026-04-09T15:21:40.695196
+Comb_List_SpecifyExCats_T0_00654f,List,0,Comb/List/SpecifyExCats.txt,,2026-04-09T15:21:40.695203
+Comb_List_Basic_T1_00654f,List,1,Comb/List/Basic.txt,,2026-04-09T15:21:40.695208
+Comb_List_SpecifyEx_T1_00654f,List,1,Comb/List/SpecifyEx.txt,,2026-04-09T15:21:40.695213
+Comb_List_SpecifyExCats_T1_00654f,List,1,Comb/List/SpecifyExCats.txt,,2026-04-09T15:21:40.695218
+Comb_Rules_Basic_T0_247684,Rules,0,Comb/Rules/Basic.txt,data/Reference/Game Rules.pdf,2026-04-09T15:21:40.695232
+Comb_Rules_SpecifyEx_T0_247684,Rules,0,Comb/Rules/SpecifyEx.txt,data/Reference/Game Rules.pdf,2026-04-09T15:21:40.695237
+Comb_Rules_SpecifyExCats_T0_247684,Rules,0,Comb/Rules/SpecifyExCats.txt,data/Reference/Game Rules.pdf,2026-04-09T15:21:40.695242
+Comb_Rules_Basic_T1_247684,Rules,1,Comb/Rules/Basic.txt,data/Reference/Game Rules.pdf,2026-04-09T15:21:40.695246
+Comb_Rules_SpecifyEx_T1_247684,Rules,1,Comb/Rules/SpecifyEx.txt,data/Reference/Game Rules.pdf,2026-04-09T15:21:40.695253
+Comb_Rules_SpecifyExCats_T1_247684,Rules,1,Comb/Rules/SpecifyExCats.txt,data/Reference/Game Rules.pdf,2026-04-09T15:21:40.695257

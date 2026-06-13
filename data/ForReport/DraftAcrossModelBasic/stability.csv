@@ -1,0 +1,5 @@
+experiment_id,scope,total_pairs,always_together,stability_score
+Experiment1,claude,583,34,0.0583
+Experiment1,gemini,180,21,0.1167
+Experiment1,openai,94,18,0.1915
+Experiment1,experiment,630,7,0.0111

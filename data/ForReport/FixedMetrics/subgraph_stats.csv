@@ -1,0 +1,17 @@
+experiment_id,scope,model_id,num_groups,num_games_covered,coverage_pct,avg_group_size,min_group_size,max_group_size
+Exp1AcrossOpenAi,model,gpt-5.4,7,22,52.4,3.14,2,5
+Exp1AcrossOpenAi,model,gpt-5.4-mini,14,58,138.1,4.14,2,8
+Exp1AcrossOpenAi,model,gpt-5.4-nano,8,22,52.4,2.75,2,5
+Exp1AcrossOpenAi,experiment,all,3,8,19.0,2.67,2,4
+Experiment1,model,claude,15,62,147.6,4.13,2,20
+Experiment1,model,gemini,9,44,104.8,4.89,2,8
+Experiment1,model,openai,5,28,66.7,5.6,2,8
+Experiment1,experiment,all,2,12,28.6,6.0,6,6
+NewAcrossOpenAi,model,gpt-5.4,7,47,111.9,6.71,2,12
+NewAcrossOpenAi,model,gpt-5.4-mini,19,122,290.5,6.42,2,17
+NewAcrossOpenAi,model,gpt-5.4-nano,8,43,102.4,5.38,2,8
+NewAcrossOpenAi,experiment,all,3,13,31.0,4.33,2,6
+NewAcrossModel,model,claude,17,44,104.8,2.59,2,4
+NewAcrossModel,model,gemini,9,23,54.8,2.56,2,4
+NewAcrossModel,model,openai,5,15,35.7,3.0,2,5
+NewAcrossModel,experiment,all,2,6,14.3,3.0,2,4

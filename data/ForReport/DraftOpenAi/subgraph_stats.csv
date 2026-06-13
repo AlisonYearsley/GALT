@@ -1,0 +1,5 @@
+experiment,scope,model,groups,games,coverage-pct,avg-group-size,min-group-size,max-group-size
+Exp1AcrossOpenAi,model,gpt-5.4,7,22,52.4,3.14,2,5
+Exp1AcrossOpenAi,model,gpt-5.4-mini,14,58,138.1,4.14,2,8
+Exp1AcrossOpenAi,model,gpt-5.4-nano,8,22,52.4,2.75,2,5
+Exp1AcrossOpenAi,experiment,all,3,8,19.0,2.67,2,4

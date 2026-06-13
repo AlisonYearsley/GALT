@@ -1,0 +1,10 @@
+model_id,run_name,edit_dist_experiment,edit_dist_model
+gpt-5.4,1openai_5483c195,32,21
+gpt-5.4,2openai_eef50d51,34,22
+gpt-5.4,3openai_6594eca6,34,21
+gpt-5.4-mini,1openai_5f7e13f7,33,13
+gpt-5.4-mini,2openai_8b0a58f6,33,14
+gpt-5.4-mini,3openai_d3eb7678,31,10
+gpt-5.4-nano,1openai_a5d270cc,34,25
+gpt-5.4-nano,2openai_21d5d7ce,29,17
+gpt-5.4-nano,3openai_827567f2,34,24

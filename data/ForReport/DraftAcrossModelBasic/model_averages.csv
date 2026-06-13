@@ -1,0 +1,7 @@
+experiment_id,model_id,num_runs,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,edit_dist_experiment,edit_dist_model
+Exp1AcrossOpenAi,gpt-5.4,3,5.0,13.333,41.333,16.333,19.763,25.333,3.143,2.903,66.333,67.333,33.333,21.0
+Exp1AcrossOpenAi,gpt-5.4-mini,3,7.667,2.333,40.333,7.667,11.96,19.0,3.687,2.187,59.667,60.667,32.333,-1.667
+Exp1AcrossOpenAi,gpt-5.4-nano,3,10.333,0.0,40.0,1.0,4.427,9.333,2.647,2.0,50.333,51.333,32.0,22.333
+Experiment1,claude,3,3.0,16.0,42.0,18.0,29.11,42.0,13.35,3.307,69.333,70.333,35.0,3.333
+Experiment1,gemini,3,6.0,6.667,42.0,2.0,7.35,13.667,4.1,2.627,54.667,55.667,36.0,21.667
+Experiment1,openai,3,5.667,16.667,41.0,2.0,7.4,12.0,3.96,2.813,63.333,64.333,35.0,26.0

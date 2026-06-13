@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yearsley"
+  given-names: "Alison"
+  orcid: "https://orcid.org/0009-0009-8374-0760"
+title: "Graph Analysis of LLM Taxonomies- GALT"
+version: 1.0.0
+date-released: 2026-06-11
+url: "https://github.com/AlisonYearsley/GALT"

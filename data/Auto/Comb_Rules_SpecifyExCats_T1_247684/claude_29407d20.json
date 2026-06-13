@@ -1,0 +1,14 @@
+{
+  "experiment": "Comb_Rules_SpecifyExCats_T1_247684",
+  "run_id": "claude_29407d20",
+  "timestamp": "2026-04-09T17:59:24.309652",
+  "model": "claude-haiku-4-5-20251001",
+  "run_index": 1,
+  "prompt1": "Comb/Rules/SpecifyExCats.txt",
+  "prompt2": "csvformatSubcat.txt",
+  "temperature": 1,
+  "games_path": "data/Reference/Games.csv",
+  "pdf_path": "data/Reference/Game Rules.pdf",
+  "taxonomy": "# Grid-Based Logic Games Taxonomy\n\n## 1. Loop/Path Drawing\nDotchi-Loop\nMasyu\nMid-loop\nMoon-or-Sun\nNagareru\nSlitherlink\nSuraromu\nYajilin\n\n## 2. Shading/Coloring\nHeyawake\nHitori\nKurodoko\nNurimeizu\nNurimisaki\nTilepaint\nUsowan\n\n## 3. Number Placement\nMakaro\nNansuke\nRipple Effect\nSudoku\n\n## 4. Partitioning/Blocking\nChained Block\nDouble Choco\nFive Cells\nFillomino\nLITS\nSashigane\nShikaku\n\n## 5. Shape/Pattern Placement\nAkari\nEvolomino\nPencils\nShakashaka\n\n## 6. Connectivity & Linking\nHashiwokakero\nHebi\nNumberlink\nNurikabe\nNuritwin\nSto-stone\n\n## 7. Movement & Transformation\nChoco Banana\nKurotto\nNorinori\nSatogaeri\nYosenabe\nJuosan",
+  "format": "```\nType,Name,Parent\ncategory,Loop/Path Drawing,\ncategory,Shading/Coloring,\ncategory,Number Placement,\ncategory,Partitioning/Blocking,\ncategory,Shape/Pattern Placement,\ncategory,Connectivity & Linking,\ncategory,Movement & Transformation,\ngame,Dotchi-Loop,Loop/Path Drawing\ngame,Masyu,Loop/Path Drawing\ngame,Mid-loop,Loop/Path Drawing\ngame,Moon-or-Sun,Loop/Path Drawing\ngame,Nagareru,Loop/Path Drawing\ngame,Slitherlink,Loop/Path Drawing\ngame,Suraromu,Loop/Path Drawing\ngame,Yajilin,Loop/Path Drawing\ngame,Heyawake,Shading/Coloring\ngame,Hitori,Shading/Coloring\ngame,Kurodoko,Shading/Coloring\ngame,Nurimeizu,Shading/Coloring\ngame,Nurimisaki,Shading/Coloring\ngame,Tilepaint,Shading/Coloring\ngame,Usowan,Shading/Coloring\ngame,Makaro,Number Placement\ngame,Nansuke,Number Placement\ngame,Ripple Effect,Number Placement\ngame,Sudoku,Number Placement\ngame,Chained Block,Partitioning/Blocking\ngame,Double Choco,Partitioning/Blocking\ngame,Five Cells,Partitioning/Blocking\ngame,Fillomino,Partitioning/Blocking\ngame,LITS,Partitioning/Blocking\ngame,Sashigane,Partitioning/Blocking\ngame,Shikaku,Partitioning/Blocking\ngame,Akari,Shape/Pattern Placement\ngame,Evolomino,Shape/Pattern Placement\ngame,Pencils,Shape/Pattern Placement\ngame,Shakashaka,Shape/Pattern Placement\ngame,Hashiwokakero,Connectivity & Linking\ngame,Hebi,Connectivity & Linking\ngame,Numberlink,Connectivity & Linking\ngame,Nurikabe,Connectivity & Linking\ngame,Nuritwin,Connectivity & Linking\ngame,Sto-stone,Connectivity & Linking\ngame,Choco Banana,Movement & Transformation\ngame,Kurotto,Movement & Transformation\ngame,Norinori,Movement & Transformation\ngame,Satogaeri,Movement & Transformation\ngame,Yosenabe,Movement & Transformation\ngame,Juosan,Movement & Transformation\n```"
+}

@@ -1,0 +1,3 @@
+Generate a taxonomy of grid based logic games, populated with the following games:
+
+{games}

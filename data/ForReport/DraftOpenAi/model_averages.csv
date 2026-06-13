@@ -1,0 +1,4 @@
+experiment,model,runs,categories,subcategories,games,dist-min,dist-mean,dist-max,dist-stdev,avg-path,edges,nodes,edit-exp,edit-model
+Exp1AcrossOpenAi,gpt-5.4,3,5.0,13.333,41.333,16.333,19.763,25.333,3.143,2.903,66.333,67.333,33.333,21.0
+Exp1AcrossOpenAi,gpt-5.4-mini,3,7.667,2.333,40.333,7.667,11.96,19.0,3.687,2.187,59.667,60.667,32.333,-1.667
+Exp1AcrossOpenAi,gpt-5.4-nano,3,10.333,0.0,40.0,1.0,4.427,9.333,2.647,2.0,50.333,51.333,32.0,22.333

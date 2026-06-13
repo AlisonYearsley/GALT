@@ -1,0 +1,14 @@
+{
+  "experiment": "TestPdfPrompt",
+  "run_id": "claude_a72c8a02",
+  "timestamp": "2026-04-09T14:53:15.045273",
+  "model": "claude-sonnet-4-5",
+  "run_index": 1,
+  "prompt1": "taxonomy7.txt",
+  "prompt2": "csvformat.txt",
+  "temperature": 1.0,
+  "games_path": "data/Reference/Games.csv",
+  "pdf_path": "data/Reference/Game Rules.pdf",
+  "taxonomy": "# Grid-Based Logic Puzzle Taxonomy\n\n## 1. Loop Drawing Puzzles\n- Dotchi-Loop\n- Masyu\n- Mid-loop\n- Moon-or-Sun\n- Nagareru\n- Slitherlink\n- Suraromu\n\n## 2. Number Placement Puzzles\n- Fillomino\n- Makaro\n- Nansuke\n- Ripple Effect\n- Sudoku\n\n## 3. Region Division Puzzles\n- Chained Block\n- Double Choco\n- Five Cells\n- Sashigane\n- Shikaku\n\n## 4. Cell Shading Puzzles\n- Choco Banana\n- Heyawake\n- Hitori\n- Kurodoko\n- Nurikabe\n- Nurimisaki\n- Nurimeizu\n- Nuritwin\n- Sto-stone\n- Tilepaint\n- Usowan\n\n## 5. Connectivity & Path Puzzles\n- Evolomino\n- Hebi\n- Numberlink\n- Pencils\n- Satogaeri\n- Yosenabe\n\n## 6. Block Placement Puzzles\n- Kurotto\n- LITS\n- Norinori\n- Shakashaka\n\n## 7. Illumination & Line-of-Sight Puzzles\n- Akari\n- Juosan\n- Yajilin",
+  "format": "# Grid-Based Logic Puzzle Taxonomy CSV\n\n```csv\nParent,Child\nLoop Drawing Puzzles,Dotchi-Loop\nLoop Drawing Puzzles,Masyu\nLoop Drawing Puzzles,Mid-loop\nLoop Drawing Puzzles,Moon-or-Sun\nLoop Drawing Puzzles,Nagareru\nLoop Drawing Puzzles,Slitherlink\nLoop Drawing Puzzles,Suraromu\nNumber Placement Puzzles,Fillomino\nNumber Placement Puzzles,Makaro\nNumber Placement Puzzles,Nansuke\nNumber Placement Puzzles,Ripple Effect\nNumber Placement Puzzles,Sudoku\nRegion Division Puzzles,Chained Block\nRegion Division Puzzles,Double Choco\nRegion Division Puzzles,Five Cells\nRegion Division Puzzles,Sashigane\nRegion Division Puzzles,Shikaku\nCell Shading Puzzles,Choco Banana\nCell Shading Puzzles,Heyawake\nCell Shading Puzzles,Hitori\nCell Shading Puzzles,Kurodoko\nCell Shading Puzzles,Nurikabe\nCell Shading Puzzles,Nurimisaki\nCell Shading Puzzles,Nurimeizu\nCell Shading Puzzles,Nuritwin\nCell Shading Puzzles,Sto-stone\nCell Shading Puzzles,Tilepaint\nCell Shading Puzzles,Usowan\nConnectivity & Path Puzzles,Evolomino\nConnectivity & Path Puzzles,Hebi\nConnectivity & Path Puzzles,Numberlink\nConnectivity & Path Puzzles,Pencils\nConnectivity & Path Puzzles,Satogaeri\nConnectivity & Path Puzzles,Yosenabe\nBlock Placement Puzzles,Kurotto\nBlock Placement Puzzles,LITS\nBlock Placement Puzzles,Norinori\nBlock Placement Puzzles,Shakashaka\nIllumination & Line-of-Sight Puzzles,Akari\nIllumination & Line-of-Sight Puzzles,Juosan\nIllumination & Line-of-Sight Puzzles,Yajilin\nNetwork Connection Puzzles,Hashiwokakero\n```"
+}

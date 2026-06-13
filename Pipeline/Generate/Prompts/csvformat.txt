@@ -1,0 +1,6 @@
+Reformat your previously generated taxonomy into a csv with column headers 'Parent' and 'Child' such that there is one row for each child. 
+Example:
+Parent,Child
+parent1,child1
+parent1,child2
+parent2,child3

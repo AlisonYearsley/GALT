@@ -1,0 +1,8 @@
+Reformat your previously generated taxonomy into a csv with column headers 'Type','Name' and 'Parent', type=['category','game'] such that there is one row for each child, and for each category->subcategory relationship 
+Example:
+Type,Name,Parent
+category,category1,
+category,category2,
+category,subcategory1,category1
+game,game1,subcategory1
+game,game2,category2

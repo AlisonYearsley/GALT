@@ -1,0 +1,67 @@
+Type,Name,Parent
+category,Number Placement Puzzles,
+category,Regional Constraint Puzzles,Number Placement Puzzles
+category,Counting & Sum Puzzles,Number Placement Puzzles
+category,Path & Loop Puzzles,
+category,Single Loop Puzzles,Path & Loop Puzzles
+category,Path Connection Puzzles,Path & Loop Puzzles
+category,Multiple Path Puzzles,Path & Loop Puzzles
+category,Shading & Coloring Puzzles,
+category,Island Formation Puzzles,Shading & Coloring Puzzles
+category,Regional Shading Puzzles,Shading & Coloring Puzzles
+category,Pattern-Based Shading,Shading & Coloring Puzzles
+category,Alternating/Twin Shading,Shading & Coloring Puzzles
+category,Polyomino Placement Puzzles,
+category,Fixed Shape Puzzles,Polyomino Placement Puzzles
+category,Flexible Shape Puzzles,Polyomino Placement Puzzles
+category,Directional & Arrow Puzzles,
+category,Arrow-Based Puzzles,Directional & Arrow Puzzles
+category,Visibility Puzzles,Directional & Arrow Puzzles
+category,Bridge & Connection Puzzles,
+category,Block & Stone Movement Puzzles,
+category,Placement Puzzles,Block & Stone Movement Puzzles
+category,Flow & Movement,Block & Stone Movement Puzzles
+category,Specialized Constraint Puzzles,
+game,Sudoku,Regional Constraint Puzzles
+game,Fillomino,Regional Constraint Puzzles
+game,Juosan,Counting & Sum Puzzles
+game,Kurodoko,Counting & Sum Puzzles
+game,Slitherlink,Single Loop Puzzles
+game,Masyu,Single Loop Puzzles
+game,Dotchi-Loop,Single Loop Puzzles
+game,Mid-loop,Single Loop Puzzles
+game,Numberlink,Path Connection Puzzles
+game,Nagareru,Path Connection Puzzles
+game,Hebi,Multiple Path Puzzles
+game,Nurikabe,Island Formation Puzzles
+game,Kuromasu,Island Formation Puzzles
+game,Kurotto,Island Formation Puzzles
+game,Heyawake,Regional Shading Puzzles
+game,Hitori,Regional Shading Puzzles
+game,Shakashaka,Regional Shading Puzzles
+game,Norinori,Pattern-Based Shading
+game,Nurimeizu,Pattern-Based Shading
+game,Nurimisaki,Pattern-Based Shading
+game,Tilepaint,Pattern-Based Shading
+game,Moon-or-Sun,Pattern-Based Shading
+game,Nuritwin,Alternating/Twin Shading
+game,LITS,Fixed Shape Puzzles
+game,Evolomino,Fixed Shape Puzzles
+game,Shikaku,Flexible Shape Puzzles
+game,Sashigane,Flexible Shape Puzzles
+game,Five Cells,Flexible Shape Puzzles
+game,Yajilin,Arrow-Based Puzzles
+game,Makaro,Arrow-Based Puzzles
+game,Akari,Visibility Puzzles
+game,Hashiwokakero,Bridge & Connection Puzzles
+game,Ripple Effect,Bridge & Connection Puzzles
+game,Sto-stone,Placement Puzzles
+game,Chained Block,Placement Puzzles
+game,Double Choco,Placement Puzzles
+game,Choco Banana,Placement Puzzles
+game,Suraromu,Flow & Movement
+game,Satogaeri,Flow & Movement
+game,Yosenabe,Specialized Constraint Puzzles
+game,Pencils,Specialized Constraint Puzzles
+game,Nansuke,Specialized Constraint Puzzles
+game,Usowan,Specialized Constraint Puzzles

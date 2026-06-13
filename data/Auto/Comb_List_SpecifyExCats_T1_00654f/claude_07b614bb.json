@@ -1,0 +1,14 @@
+{
+  "experiment": "Comb_List_SpecifyExCats_T1_00654f",
+  "run_id": "claude_07b614bb",
+  "timestamp": "2026-04-09T15:50:34.953430",
+  "model": "claude-haiku-4-5-20251001",
+  "run_index": 1,
+  "prompt1": "Comb/List/SpecifyExCats.txt",
+  "prompt2": "csvformatSubcat.txt",
+  "temperature": 1,
+  "games_path": "data/Reference/Games.csv",
+  "pdf_path": null,
+  "taxonomy": "# Grid-Based Logic Games Taxonomy\n\n## 1. **Number Placement**\nSudoku, Nansuke, Ripple Effect, Juosan\n\n## 2. **Shading/Coloring**\nNurikabe, Hitori, Kurodoko, Nuritwin, Norinori, Yajilin, Sto-stone, Usowan, Satogaeri, Heyawake, Tilepaint\n\n## 3. **Line Drawing**\nSlitherlink, Hashiwokakero, Numberlink, Masyu, Dotchi-Loop, Mid-loop, Nagareru, Suraromu\n\n## 4. **Polyomino Placement**\nFillomino, LITS, Evolomino, Five Cells, Shikaku, Sashigane, Shakashaka, Nurimisaki, Makaro, Yosenabe\n\n## 5. **Cell Counting/Marking**\nAkari, Kurotto, Hebi, Pencils, Moon-or-Sun, Choco Banana, Double Choco, Nuroimeizu\n\n## 6. **Block/Chain Manipulation**\nChained Block\n\n## 7. **Irregular Pattern**\nNurimeizu",
+  "format": "```\nType,Name,Parent\ncategory,Number Placement,\ncategory,Shading/Coloring,\ncategory,Line Drawing,\ncategory,Polyomino Placement,\ncategory,Cell Counting/Marking,\ncategory,Block/Chain Manipulation,\ncategory,Irregular Pattern,\ngame,Sudoku,Number Placement\ngame,Nansuke,Number Placement\ngame,Ripple Effect,Number Placement\ngame,Juosan,Number Placement\ngame,Nurikabe,Shading/Coloring\ngame,Hitori,Shading/Coloring\ngame,Kurodoko,Shading/Coloring\ngame,Nuritwin,Shading/Coloring\ngame,Norinori,Shading/Coloring\ngame,Yajilin,Shading/Coloring\ngame,Sto-stone,Shading/Coloring\ngame,Usowan,Shading/Coloring\ngame,Satogaeri,Shading/Coloring\ngame,Heyawake,Shading/Coloring\ngame,Tilepaint,Shading/Coloring\ngame,Slitherlink,Line Drawing\ngame,Hashiwokakero,Line Drawing\ngame,Numberlink,Line Drawing\ngame,Masyu,Line Drawing\ngame,Dotchi-Loop,Line Drawing\ngame,Mid-loop,Line Drawing\ngame,Nagareru,Line Drawing\ngame,Suraromu,Line Drawing\ngame,Fillomino,Polyomino Placement\ngame,LITS,Polyomino Placement\ngame,Evolomino,Polyomino Placement\ngame,Five Cells,Polyomino Placement\ngame,Shikaku,Polyomino Placement\ngame,Sashigane,Polyomino Placement\ngame,Shakashaka,Polyomino Placement\ngame,Nurimisaki,Polyomino Placement\ngame,Makaro,Polyomino Placement\ngame,Yosenabe,Polyomino Placement\ngame,Akari,Cell Counting/Marking\ngame,Kurotto,Cell Counting/Marking\ngame,Hebi,Cell Counting/Marking\ngame,Pencils,Cell Counting/Marking\ngame,Moon-or-Sun,Cell Counting/Marking\ngame,Choco Banana,Cell Counting/Marking\ngame,Double Choco,Cell Counting/Marking\ngame,Nurimeizu,Cell Counting/Marking\ngame,Chained Block,Block/Chain Manipulation\ngame,Nuroimeizu,Irregular Pattern\n```"
+}

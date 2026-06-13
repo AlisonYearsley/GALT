@@ -1,0 +1,2 @@
+num_records,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,recall,precision,f1,num_hallucinations,edit_dist_experiment,edit_dist_model
+108,6.2223,6.4599,40.7346,4.2932,8.9499,15.8333,4.5633,2.586,54.9784,55.9784,0.9886,0.9953,0.9919,0.0679,38.4889,19.2673

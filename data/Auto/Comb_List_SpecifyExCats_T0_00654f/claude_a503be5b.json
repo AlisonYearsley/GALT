@@ -1,0 +1,14 @@
+{
+  "experiment": "Comb_List_SpecifyExCats_T0_00654f",
+  "run_id": "claude_a503be5b",
+  "timestamp": "2026-04-09T21:22:11.786234",
+  "model": "claude-haiku-4-5-20251001",
+  "run_index": 9,
+  "prompt1": "Comb/List/SpecifyExCats.txt",
+  "prompt2": "csvformatSubcat.txt",
+  "temperature": 0,
+  "games_path": "data/Reference/Games.csv",
+  "pdf_path": null,
+  "taxonomy": "# Grid-Based Logic Games Taxonomy\n\n## 1. Number Placement\nSudoku, Ripple Effect, Juosan, Nansuke\n\n## 2. Path & Connection\nHashiwokakero, Numberlink, Slitherlink, Masyu, Nagareru, Dotchi-Loop, Mid-loop\n\n## 3. Region Division\nShikaku, Fillomino, LITS, Evolomino, Five Cells, Sashigane\n\n## 4. Cell Coloring\nNurikabe, Hitori, Kurodoko, Kurotto, Norinori, Heyawake, Satogaeri, Yajilin, Usowan\n\n## 5. Block Placement\nChained Block, Choco Banana, Double Choco, Nuritwin, Tilepaint, Shakashaka, Sto-stone\n\n## 6. Line Drawing\nAkari, Hebi, Makaro, Moon-or-Sun, Nurimisaki, Pencils, Suraromu\n\n## 7. Hybrid & Specialized\nYosenabe, Nurimeizu",
+  "format": "```\nType,Name,Parent\ncategory,Number Placement,\ncategory,Path & Connection,\ncategory,Region Division,\ncategory,Cell Coloring,\ncategory,Block Placement,\ncategory,Line Drawing,\ncategory,Hybrid & Specialized,\ngame,Sudoku,Number Placement\ngame,Ripple Effect,Number Placement\ngame,Juosan,Number Placement\ngame,Nansuke,Number Placement\ngame,Hashiwokakero,Path & Connection\ngame,Numberlink,Path & Connection\ngame,Slitherlink,Path & Connection\ngame,Masyu,Path & Connection\ngame,Nagareru,Path & Connection\ngame,Dotchi-Loop,Path & Connection\ngame,Mid-loop,Path & Connection\ngame,Shikaku,Region Division\ngame,Fillomino,Region Division\ngame,LITS,Region Division\ngame,Evolomino,Region Division\ngame,Five Cells,Region Division\ngame,Sashigane,Region Division\ngame,Nurikabe,Cell Coloring\ngame,Hitori,Cell Coloring\ngame,Kurodoko,Cell Coloring\ngame,Kurotto,Cell Coloring\ngame,Norinori,Cell Coloring\ngame,Heyawake,Cell Coloring\ngame,Satogaeri,Cell Coloring\ngame,Yajilin,Cell Coloring\ngame,Usowan,Cell Coloring\ngame,Chained Block,Block Placement\ngame,Choco Banana,Block Placement\ngame,Double Choco,Block Placement\ngame,Nuritwin,Block Placement\ngame,Tilepaint,Block Placement\ngame,Shakashaka,Block Placement\ngame,Sto-stone,Block Placement\ngame,Akari,Line Drawing\ngame,Hebi,Line Drawing\ngame,Makaro,Line Drawing\ngame,Moon-or-Sun,Line Drawing\ngame,Nurimisaki,Line Drawing\ngame,Pencils,Line Drawing\ngame,Suraromu,Line Drawing\ngame,Yosenabe,Hybrid & Specialized\ngame,Nurimeizu,Hybrid & Specialized\n```"
+}

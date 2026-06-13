@@ -1,0 +1,10 @@
+model_id,run_name,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,recall,precision,f1,num_hallucinations,hallucinated_names
+gpt-5.4,1openai_5483c195,1,8,40,40,40,40,0.0,3.0,49,50,0.9762,1.0,0.988,0,
+gpt-5.4,2openai_eef50d51,8,16,42,0,5.25,16,6.14,3.0,66,67,1.0,1.0,1.0,0,
+gpt-5.4,3openai_6594eca6,6,16,42,0,7,18,7.54,3.0,64,65,1.0,1.0,1.0,0,
+gpt-5.4-mini,1openai_5f7e13f7,8,0,41,0,5.12,15,5.91,2.0,49,50,0.9762,1.0,0.988,0,
+gpt-5.4-mini,2openai_8b0a58f6,8,0,41,0,5.12,13,5.57,2.0,49,50,0.9762,1.0,0.988,0,
+gpt-5.4-mini,3openai_d3eb7678,7,7,39,0,5.57,25,9.29,2.97,53,54,0.9286,1.0,0.963,0,
+gpt-5.4-nano,1openai_a5d270cc,11,0,41,1,3.73,8,2.53,2.0,52,53,0.9762,0.9535,0.9647,2,Hashiwokakakero; Nurisaki
+gpt-5.4-nano,2openai_21d5d7ce,10,0,37,0,3.7,9,3.27,2.0,47,48,0.9048,1.0,0.95,0,
+gpt-5.4-nano,3openai_827567f2,10,0,42,1,4.2,10,3.08,2.0,52,53,1.0,1.0,1.0,0,

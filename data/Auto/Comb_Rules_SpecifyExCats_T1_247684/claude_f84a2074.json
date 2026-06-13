@@ -1,0 +1,14 @@
+{
+  "experiment": "Comb_Rules_SpecifyExCats_T1_247684",
+  "run_id": "claude_f84a2074",
+  "timestamp": "2026-04-09T17:59:34.559347",
+  "model": "claude-haiku-4-5-20251001",
+  "run_index": 2,
+  "prompt1": "Comb/Rules/SpecifyExCats.txt",
+  "prompt2": "csvformatSubcat.txt",
+  "temperature": 1,
+  "games_path": "data/Reference/Games.csv",
+  "pdf_path": "data/Reference/Game Rules.pdf",
+  "taxonomy": "# Grid-Based Logic Games Taxonomy\n\n## 1. Loop Drawing Games\nDotchi-Loop, Masyu, Mid-loop, Moon-or-Sun, Nagareru, Slitherlink, Suraromu, Yajilin\n\n## 2. Coloring/Shading Games\nHeyawake, Hitori, Kurodoko, LITS, Nurimeizu, Nurimisaki, Shakashaka, Tilepaint, Usowan\n\n## 3. Number Placement Games\nMakaro, Nansuke, Ripple Effect, Sudoku\n\n## 4. Block Division Games\nChained Block, Double Choco, Evolomino, Fillomino, Five Cells, Nuritwin, Sashigane, Shikaku\n\n## 5. Light & Visibility Games\nAkari, Kurotto\n\n## 6. Path & Connection Games\nHashiwokakero, Numberlink, Pencils, Satogaeri, Yosenabe\n\n## 7. Pattern & Shape Games\nChoco Banana, Hebi, Juosan, Norinori, Sto-stone",
+  "format": "```csv\nType,Name,Parent\ncategory,Loop Drawing Games,\ncategory,Coloring/Shading Games,\ncategory,Number Placement Games,\ncategory,Block Division Games,\ncategory,Light & Visibility Games,\ncategory,Path & Connection Games,\ncategory,Pattern & Shape Games,\ngame,Dotchi-Loop,Loop Drawing Games\ngame,Masyu,Loop Drawing Games\ngame,Mid-loop,Loop Drawing Games\ngame,Moon-or-Sun,Loop Drawing Games\ngame,Nagareru,Loop Drawing Games\ngame,Slitherlink,Loop Drawing Games\ngame,Suraromu,Loop Drawing Games\ngame,Yajilin,Loop Drawing Games\ngame,Heyawake,Coloring/Shading Games\ngame,Hitori,Coloring/Shading Games\ngame,Kurodoko,Coloring/Shading Games\ngame,LITS,Coloring/Shading Games\ngame,Nurimeizu,Coloring/Shading Games\ngame,Nurimisaki,Coloring/Shading Games\ngame,Shakashaka,Coloring/Shading Games\ngame,Tilepaint,Coloring/Shading Games\ngame,Usowan,Coloring/Shading Games\ngame,Makaro,Number Placement Games\ngame,Nansuke,Number Placement Games\ngame,Ripple Effect,Number Placement Games\ngame,Sudoku,Number Placement Games\ngame,Chained Block,Block Division Games\ngame,Double Choco,Block Division Games\ngame,Evolomino,Block Division Games\ngame,Fillomino,Block Division Games\ngame,Five Cells,Block Division Games\ngame,Nuritwin,Block Division Games\ngame,Sashigane,Block Division Games\ngame,Shikaku,Block Division Games\ngame,Akari,Light & Visibility Games\ngame,Kurotto,Light & Visibility Games\ngame,Hashiwokakero,Path & Connection Games\ngame,Numberlink,Path & Connection Games\ngame,Pencils,Path & Connection Games\ngame,Satogaeri,Path & Connection Games\ngame,Yosenabe,Path & Connection Games\ngame,Choco Banana,Pattern & Shape Games\ngame,Hebi,Pattern & Shape Games\ngame,Juosan,Pattern & Shape Games\ngame,Norinori,Pattern & Shape Games\ngame,Sto-stone,Pattern & Shape Games\n```"
+}

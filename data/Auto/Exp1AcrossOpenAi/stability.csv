@@ -1,0 +1,5 @@
+experiment_id,scope,total_pairs,always_together,stability_score
+Exp1AcrossOpenAi,gpt-5.4-nano,244,23,0.0943
+Exp1AcrossOpenAi,gpt-5.4,270,30,0.1111
+Exp1AcrossOpenAi,gpt-5.4-mini,590,130,0.2203
+Exp1AcrossOpenAi,experiment,675,8,0.0119

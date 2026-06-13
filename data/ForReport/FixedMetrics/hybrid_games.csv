@@ -1,0 +1,764 @@
+run_name,game,categories,num_categories
+1gemini_07f48f89,Evolomino,Multi-Color/Shade Focus (or distinct cell types); Shape/Component Fitting,2
+1gemini_07f48f89,Five Cells,Multi-Color/Shade Focus (or distinct cell types); Shape/Component Fitting,2
+1gemini_07f48f89,LITS,Multi-Color/Shade Focus (or distinct cell types); Shape/Component Fitting,2
+1openai_28e0dda5,Akari,Illumination / Ray placement; Loop / Cycle / Path-drawing (single closed loop),2
+1openai_28e0dda5,Masyu,Loop / Cycle / Path-drawing (single closed loop); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Slitherlink,Loop / Cycle / Path-drawing (single closed loop); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Shakashaka,Loop / Cycle / Path-drawing (single closed loop); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Shikaku,Region partitioning (areas/regions with rules); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Yosenabe,Region partitioning (areas/regions with rules); Placement / selection with grid-wide constraints (no explicit loop),2
+1openai_28e0dda5,Suraromu,Region partitioning (areas/regions with rules); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Nurikabe,Region partitioning (areas/regions with rules); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Hitori,Region partitioning (areas/regions with rules); Placement / selection with grid-wide constraints (no explicit loop); Grid painting with black/white (binary or multi-state fill),3
+1openai_28e0dda5,Heyawake,Region partitioning (areas/regions with rules); Placement / selection with grid-wide constraints (no explicit loop); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Kurodoko,Region partitioning (areas/regions with rules); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Kurotto,Region partitioning (areas/regions with rules); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Hebi,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop); Single-line / route covering (not necessarily one loop),3
+1openai_28e0dda5,Nuritwin,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop),2
+1openai_28e0dda5,Nurimeizu,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop),2
+1openai_28e0dda5,Nurimisaki,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop),2
+1openai_28e0dda5,Nagareru,Connectivity / Pair connection (non-loop); Single-line / route covering (not necessarily one loop),2
+1openai_28e0dda5,Norinori,Connectivity / Pair connection (non-loop); Single-line / route covering (not necessarily one loop),2
+1openai_28e0dda5,Usowan,Connectivity / Pair connection (non-loop); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Sto-stone,Sequence / ordering / local adjacency; Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Tilepaint,Placement / selection with grid-wide constraints (no explicit loop); Grid painting with black/white (binary or multi-state fill),2
+1openai_28e0dda5,Nansuke,Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Yajilin,Number + geometry (spatial relationships enforced by numbers); Loop / Cycle / Path-drawing (single closed loop),2
+1gemini_07f48f89,Evolomino,Multi-Color/Shade Focus (or distinct cell types); Shape/Component Fitting,2
+1gemini_07f48f89,Five Cells,Multi-Color/Shade Focus (or distinct cell types); Shape/Component Fitting,2
+1gemini_07f48f89,LITS,Multi-Color/Shade Focus (or distinct cell types); Shape/Component Fitting,2
+1openai_28e0dda5,Akari,Illumination / Ray placement; Loop / Cycle / Path-drawing (single closed loop),2
+1openai_28e0dda5,Masyu,Loop / Cycle / Path-drawing (single closed loop); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Slitherlink,Loop / Cycle / Path-drawing (single closed loop); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Shakashaka,Loop / Cycle / Path-drawing (single closed loop); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Shikaku,Region partitioning (areas/regions with rules); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Yosenabe,Region partitioning (areas/regions with rules); Placement / selection with grid-wide constraints (no explicit loop),2
+1openai_28e0dda5,Suraromu,Region partitioning (areas/regions with rules); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Nurikabe,Region partitioning (areas/regions with rules); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Hitori,Region partitioning (areas/regions with rules); Placement / selection with grid-wide constraints (no explicit loop); Grid painting with black/white (binary or multi-state fill),3
+1openai_28e0dda5,Heyawake,Region partitioning (areas/regions with rules); Placement / selection with grid-wide constraints (no explicit loop); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Kurodoko,Region partitioning (areas/regions with rules); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Kurotto,Region partitioning (areas/regions with rules); Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),3
+1openai_28e0dda5,Hebi,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop); Single-line / route covering (not necessarily one loop),3
+1openai_28e0dda5,Nuritwin,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop),2
+1openai_28e0dda5,Nurimeizu,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop),2
+1openai_28e0dda5,Nurimisaki,Fill / Tiling with shapes (polyomino-like); Connectivity / Pair connection (non-loop),2
+1openai_28e0dda5,Nagareru,Connectivity / Pair connection (non-loop); Single-line / route covering (not necessarily one loop),2
+1openai_28e0dda5,Norinori,Connectivity / Pair connection (non-loop); Single-line / route covering (not necessarily one loop),2
+1openai_28e0dda5,Usowan,Connectivity / Pair connection (non-loop); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Sto-stone,Sequence / ordering / local adjacency; Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Tilepaint,Placement / selection with grid-wide constraints (no explicit loop); Grid painting with black/white (binary or multi-state fill),2
+1openai_28e0dda5,Nansuke,Grid painting with black/white (binary or multi-state fill); Number + geometry (spatial relationships enforced by numbers),2
+1openai_28e0dda5,Yajilin,Number + geometry (spatial relationships enforced by numbers); Loop / Cycle / Path-drawing (single closed loop),2
+1gemini_88eff394,Choco Banana,Region/Block Based; Multi-Path/Network Based,2
+1gemini_88eff394,Hebi,Region/Block Based; Multi-Path/Network Based,2
+1gemini_88eff394,LITS,Region/Block Based; Hybrid/Advanced Games,2
+1gemini_88eff394,Evolomino,Single Cell/Constraint Based; Hybrid/Advanced Games,2
+1gemini_88eff394,Suraromu,Single Cell/Constraint Based; Hybrid/Advanced Games,2
+1openai_853122d0,Hashiwokakero,Non-attacking pairs / connectivity-on-a-grid puzzles (endpoint connections); Non-attacking pairs / connectivity-on-a-grid puzzles (endpoint connections),2
+1openai_a72cf554,Nagareru,Loop/path with directional or movement constraints; Hybrid or Hard-to-Classify Constraint Puzzles,2
+1openai_a72cf554,Pencils,Loop/path with directional or movement constraints; Geometric piece placement,2
+1openai_a72cf554,Hashiwokakero,Connection/bridge style path construction; Number assignment through connectivity/path structure,2
+1openai_a72cf554,Numberlink,Connection/bridge style path construction; Number assignment through connectivity/path structure,2
+1openai_a72cf554,Nurikabe,Island/sea and connectivity-based shading; Size-labeled region formation,2
+1openai_a72cf554,Akari,Local clue driven black/white placement; Illumination / visibility; Hybrid or Hard-to-Classify Constraint Puzzles,3
+1openai_a72cf554,Usowan,Local clue driven black/white placement; Symbol balancing / binary-state placement,2
+1openai_a72cf554,Yajilin,Local clue driven black/white placement; Hybrid or Hard-to-Classify Constraint Puzzles,2
+1openai_a72cf554,Heyawake,Region-aware shading; Hybrid or Hard-to-Classify Constraint Puzzles,2
+1openai_a72cf554,Moon-or-Sun,Region-aware shading; Symbol balancing / binary-state placement,2
+1openai_a72cf554,Double Choco,Region-aware shading; Polyomino decomposition / reconstruction; Hybrid or Hard-to-Classify Constraint Puzzles,3
+1openai_a72cf554,Tilepaint,Region-aware shading; Symbol balancing / binary-state placement,2
+1openai_a72cf554,LITS,Polyomino / shape constrained shading; Polyomino decomposition / reconstruction; Shape-recognition / repeated polyomino logic,3
+1openai_a72cf554,Norinori,Polyomino / shape constrained shading; Shape-recognition / repeated polyomino logic,2
+1openai_a72cf554,Five Cells,Polyomino / shape constrained shading; Polyomino decomposition / reconstruction; Shape-recognition / repeated polyomino logic,3
+1openai_a72cf554,Shikaku,Rectangular and orthogonal partitioning; Size-labeled region formation,2
+1openai_a72cf554,Sashigane,Rectangular and orthogonal partitioning; Geometric piece placement,2
+1openai_a72cf554,Makaro,Rectangular and orthogonal partitioning; Number placement with region interaction,2
+1openai_a72cf554,Ripple Effect,General region partitioning by size/content; Number placement with region interaction,2
+1openai_a72cf554,Nansuke,General region partitioning by size/content; Number placement with region interaction,2
+1openai_a72cf554,Yosenabe,General region partitioning by size/content; Number placement with region interaction; Hybrid or Hard-to-Classify Constraint Puzzles,3
+1openai_a72cf554,Satogaeri,General region partitioning by size/content; Hybrid or Hard-to-Classify Constraint Puzzles,2
+1openai_a72cf554,Evolomino,Polyomino decomposition / reconstruction; Shape-recognition / repeated polyomino logic,2
+1openai_a72cf554,Chained Block,Polyomino decomposition / reconstruction; Shape-recognition / repeated polyomino logic,2
+1openai_a72cf554,Fillomino,Number assignment through connectivity/path structure; Size-labeled region formation,2
+1openai_a72cf554,Shakashaka,Geometric piece placement; Hybrid or Hard-to-Classify Constraint Puzzles,2
+1openai_f9a32fc0,Choco Banana,Number-placement / constraint-satisfaction puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Double Choco,Number-placement / constraint-satisfaction puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Sto-stone,Number-placement / constraint-satisfaction puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Evolomino,Number-placement / constraint-satisfaction puzzles; Object-placement / polyomino / shape-fitting puzzles,2
+1openai_f9a32fc0,Five Cells,Number-placement / constraint-satisfaction puzzles; Object-placement / polyomino / shape-fitting puzzles,2
+1openai_f9a32fc0,Nurikabe,Region division / partitioning puzzles; Shading / coloring puzzles,2
+1openai_f9a32fc0,Nuritwin,Region division / partitioning puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Makaro,Region division / partitioning puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,Satogaeri,Region division / partitioning puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,Chained Block,Region division / partitioning puzzles; Object-placement / polyomino / shape-fitting puzzles; Miscellaneous / hybrid logic puzzles,3
+1openai_f9a32fc0,Pencils,Region division / partitioning puzzles; Object-placement / polyomino / shape-fitting puzzles,2
+1openai_f9a32fc0,Slitherlink,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Masyu,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Hashiwokakero,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Numberlink,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Yajilin,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Dotchi-Loop,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Mid-loop,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Nagareru,Line / path / loop puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,Sashigane,Line / path / loop puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,Hebi,Line / path / loop puzzles; Connectivity / graph-style puzzles,2
+1openai_f9a32fc0,Nurimisaki,Line / path / loop puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,Suraromu,Line / path / loop puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Nansuke,Line / path / loop puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,LITS,Line / path / loop puzzles; Object-placement / polyomino / shape-fitting puzzles,2
+1openai_f9a32fc0,Kurodoko,Shading / coloring puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Moon-or-Sun,Shading / coloring puzzles; Direction / arrow / orientation puzzles,2
+1openai_f9a32fc0,Usowan,Shading / coloring puzzles; Miscellaneous / hybrid logic puzzles,2
+1openai_f9a32fc0,Tilepaint,Shading / coloring puzzles; Object-placement / polyomino / shape-fitting puzzles,2
+1openai_f9a32fc0,Shakashaka,Shading / coloring puzzles; Object-placement / polyomino / shape-fitting puzzles,2
+2openai_21d5d7ce,Akari,Single-loop / circuit / “draw paths” constraints; “Light / lamp” and illumination constraints,2
+2openai_21d5d7ce,Mid-loop,Single-loop / circuit / “draw paths” constraints; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Slitherlink,Single-loop / circuit / “draw paths” constraints; Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments),2
+2openai_21d5d7ce,Ripple Effect,Single-loop / circuit / “draw paths” constraints; Flow / propagation / spreading puzzles,2
+2openai_21d5d7ce,Hebi,Pair-connection / noncrossing paths; Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,Evolomino,Partition the grid (region tiling / polyomino / rectangles); Partition the grid (region tiling / polyomino / rectangles),2
+2openai_21d5d7ce,Fillomino,Partition the grid (region tiling / polyomino / rectangles); Partition the grid (region tiling / polyomino / rectangles),2
+2openai_21d5d7ce,Shikaku,Partition the grid (region tiling / polyomino / rectangles); Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments),2
+2openai_21d5d7ce,Tilepaint,Partition the grid (region tiling / polyomino / rectangles); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+2openai_21d5d7ce,Five Cells,Number-placement puzzles (cell values must satisfy local/global rules); Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,LITS,Number-placement puzzles (cell values must satisfy local/global rules); Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Usowan,Number-placement puzzles (cell values must satisfy local/global rules); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+2openai_21d5d7ce,Kurodoko,Black/white cell visibility and wall/obstacle placement; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Kurotto,Black/white cell visibility and wall/obstacle placement; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Yosenabe,Black/white cell visibility and wall/obstacle placement; Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,Nagareru,Black/white cell visibility and wall/obstacle placement; Flow / propagation / spreading puzzles,2
+2openai_21d5d7ce,Pencils,Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+1openai_5483c195,Masyu,Loop-drawing puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Slitherlink,Loop-drawing puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Pencils,Path / connection puzzles; Flow,2
+1openai_5483c195,Satogaeri,Path / connection puzzles; Flow,2
+1openai_5483c195,Yajilin,Path / connection puzzles; Flow; Object-counting / adjacency-constrained shading puzzles,3
+1openai_5483c195,Sudoku,Region-division and tiling puzzles; Number-placement / symbol-placement puzzles,2
+1openai_5483c195,Akari,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Heyawake,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Kurodoko,Area-filling / shading puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Kurotto,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,LITS,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Nurikabe,Area-filling / shading puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Shakashaka,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Tilepaint,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Ripple Effect,Number-placement / symbol-placement puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5f7e13f7,Shikaku,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Fillomino,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Double Choco,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Five Cells,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Ripple Effect,Number Placement / Numerical Constraint Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Nuritwin,Number Placement / Numerical Constraint Puzzles; Loop Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,4
+1openai_5f7e13f7,Evolomino,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Sto-stone,Number Placement / Numerical Constraint Puzzles; Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles,3
+1openai_5f7e13f7,Nansuke,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Juosan,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Chained Block,Number Placement / Numerical Constraint Puzzles; Path / Connection Puzzles; Polyomino / Region-Shaping Puzzles,3
+1openai_5f7e13f7,Choco Banana,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Suraromu,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Akari,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nurikabe,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Heyawake,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Kurodoko,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nurimeizu,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Moon-or-Sun,Shading / Unshading Puzzles; Constraint-Placement / Symbol Logic Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Usowan,Shading / Unshading Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Norinori,Shading / Unshading Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Dotchi-Loop,Shading / Unshading Puzzles; Loop Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nagareru,Shading / Unshading Puzzles; Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles; Mixed or Hybrid Grid Logic Puzzles,4
+1openai_5f7e13f7,Masyu,Loop Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Yajilin,Loop Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Mid-loop,Loop Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Hashiwokakero,Loop Puzzles; Path / Connection Puzzles,2
+1openai_5f7e13f7,Sashigane,Loop Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Pencils,Path / Connection Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Satogaeri,Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Shakashaka,Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,2
+1openai_5f7e13f7,Makaro,Polyomino / Region-Shaping Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+3openai_6594eca6,Dotchi-Loop,Single loop on a grid; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Yajilin,Loop/path with directional or clue-cell interaction; Shading with local counting clues; Hybrid Loop–Shading / Loop–Region Puzzles,3
+3openai_6594eca6,Pencils,Loop/path with directional or clue-cell interaction; Object placement with line-of-sight or adjacency rules; Hybrid Loop–Shading / Loop–Region Puzzles,3
+3openai_6594eca6,Sashigane,Loop/path with directional or clue-cell interaction; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Satogaeri,Connecting endpoints / routing; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Akari,Shading with local counting clues; Object placement with line-of-sight or adjacency rules,2
+3openai_6594eca6,Juosan,Shading with local counting clues; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,LITS,Shading with shape/topology constraints; Polyomino placement / packing,2
+3openai_6594eca6,Tilepaint,Shading with shape/topology constraints; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Double Choco,Shading with region-based meaning; Region division with color/class constraints,2
+3openai_6594eca6,Moon-or-Sun,Shading with region-based meaning; Number/symbol placement,2
+3openai_6594eca6,Makaro,Rectangular or orthogonal region partition; Placement into predefined or emerging regions,2
+3openai_6594eca6,Yosenabe,Rectangular or orthogonal region partition; Placement into predefined or emerging regions,2
+3openai_6594eca6,Chained Block,Region division with color/class constraints; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Ripple Effect,Region division with color/class constraints; Number/symbol placement,2
+3openai_6594eca6,Evolomino,Polyomino placement / packing; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Hebi,Object placement with line-of-sight or adjacency rules; Sequence / Adjacency / Ordering Puzzles,2
+3openai_827567f2,Kurotto,Loop-drawing (closed/continuous loops); Loop-drawing (closed/continuous loops),2
+3openai_827567f2,Kurodoko,Grid coloring / dual-state (two-state black/white rules); Grid coloring / dual-state (two-state black/white rules),2
+3openai_827567f2,Nagareru,Walls/Borders/Separation (place walls or enforce separated regions); Walls/Borders/Separation (place walls or enforce separated regions),2
+3openai_827567f2,Nurimeizu,Walls/Borders/Separation (place walls or enforce separated regions); Walls/Borders/Separation (place walls or enforce separated regions),2
+3openai_827567f2,Hitori,Grid coloring / dual-state (two-state black/white rules); Grid coloring / dual-state (two-state black/white rules),2
+2openai_8b0a58f6,Akari,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Kurodoko,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Nurikabe,Shading puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Nurimeizu,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Tilepaint,Shading puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Ripple Effect,Shading puzzles; Numeric constraint puzzles,2
+2openai_8b0a58f6,Moon-or-Sun,Shading puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Usowan,Shading puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Choco Banana,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Double Choco,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Evolomino,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Five Cells,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Nansuke,Region/area puzzles; Numeric constraint puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Satogaeri,Region/area puzzles; Numeric constraint puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Sto-stone,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Nuritwin,Region/area puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Yosenabe,Region/area puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Slitherlink,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Masyu,Loop and path puzzles; Directional/visibility/ray-based puzzles; Connectivity/graph puzzles,3
+2openai_8b0a58f6,Yajilin,Loop and path puzzles; Directional/visibility/ray-based puzzles; Connectivity/graph puzzles,3
+2openai_8b0a58f6,Dotchi-Loop,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Mid-loop,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Nagareru,Loop and path puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Hebi,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Numberlink,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Pencils,Loop and path puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Suraromu,Loop and path puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Sashigane,Loop and path puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Makaro,Loop and path puzzles; Numeric constraint puzzles; Directional/visibility/ray-based puzzles; Exotic hybrid puzzles,4
+2openai_8b0a58f6,Hashiwokakero,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Chained Block,Polyomino tiling puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Juosan,Numeric constraint puzzles; Exotic hybrid puzzles,2
+1openai_a5d270cc,Choco Banana,Loop/Area Partitioning with Polygons or Regions; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Heyawake,Loop/Area Partitioning with Polygons or Regions; Specialized “Set/Choice” Logic Games,2
+1openai_a5d270cc,Shikaku,Loop/Area Partitioning with Polygons or Regions; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Evolomino,Number Fill / Tiling / Placement with Values; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Satogaeri,Edge/Orientation Drawing Games; Graph/Path Drawing Games,2
+3openai_d3eb7678,Shikaku,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Fillomino,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Pencils,Region sizing / exact partition; Multiple paths / pairing / connection; Shape inference from counts or structure,3
+3openai_d3eb7678,Evolomino,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Five Cells,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Chained Block,Region sizing / exact partition; Fixed-shape or tile placement,2
+3openai_d3eb7678,Double Choco,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Choco Banana,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Satogaeri,Region sizing / exact partition; Multiple paths / pairing / connection; Shape inference from counts or structure; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,5
+3openai_d3eb7678,Nurikabe,Region constraints from clues; Black/White Cell Logic,2
+3openai_d3eb7678,Nurimeizu,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Kurodoko,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Kurotto,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Akari,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Ripple Effect,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Hitori,Region constraints from clues; Black/White Cell Logic,2
+3openai_d3eb7678,Makaro,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Nansuke,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Nuritwin,Region constraints from clues; Shape inference from counts or structure; Black/White Cell Logic,3
+3openai_d3eb7678,Nurimisaki,Region constraints from clues; Multiple paths / pairing / connection; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Usowan,Region constraints from clues; Black/White Cell Logic; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Sto-stone,Region constraints from clues; Multiple paths / pairing / connection; Black/White Cell Logic; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Suraromu,Region constraints from clues; Black/White Cell Logic; Clue Matching / Deduction Puzzles,3
+3openai_d3eb7678,Tilepaint,Region constraints from clues; Fixed-shape or tile placement; Black/White Cell Logic,3
+3openai_d3eb7678,Masyu,Single-loop construction; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Dotchi-Loop,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Mid-loop,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Yajilin,Single-loop construction; Directed / arrowed path puzzles; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Nagareru,Single-loop construction; Directed / arrowed path puzzles,2
+3openai_d3eb7678,Hebi,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Yosenabe,Multiple paths / pairing / connection; Clue Matching / Deduction Puzzles,2
+3openai_d3eb7678,LITS,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Shakashaka,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Norinori,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Moon-or-Sun,Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+2openai_eef50d51,Sashigane,Rectangle / orthogonal region partition; Cell subdivision / geometric fill,2
+2openai_eef50d51,Nansuke,Rectangle / orthogonal region partition; Number placement,2
+2openai_eef50d51,Double Choco,General polyomino or free-shape region partition; Hybrid region–shading puzzles,2
+2openai_eef50d51,Choco Banana,General polyomino or free-shape region partition; Hybrid region–shading puzzles,2
+2openai_eef50d51,Five Cells,General polyomino or free-shape region partition; Polyomino packing,2
+2openai_eef50d51,Makaro,General polyomino or free-shape region partition; Number placement,2
+2openai_eef50d51,Heyawake,Area-and-color interaction; Shading with room constraints; Hybrid region–shading puzzles,3
+2openai_eef50d51,Ripple Effect,Area-and-color interaction; Number placement,2
+2openai_eef50d51,Kurodoko,Connectivity-based black/white shading; Visibility / counting-driven shading,2
+2openai_eef50d51,Hitori,Connectivity-based black/white shading; Visibility / counting-driven shading,2
+2openai_eef50d51,Norinori,Connectivity-based black/white shading; Polyomino packing,2
+2openai_eef50d51,Usowan,Connectivity-based black/white shading; Binary / local-state placement,2
+2openai_eef50d51,Hebi,Connectivity-based black/white shading; Maze-like path carving,2
+2openai_eef50d51,Tilepaint,Connectivity-based black/white shading; Binary / local-state placement,2
+2openai_eef50d51,LITS,Shading with room constraints; Polyോമino packing; Hybrid region–shading puzzles,3
+2openai_eef50d51,Yosenabe,Shading with room constraints; Object placement with attack/coverage rules; Hybrid region–shading puzzles,3
+2openai_eef50d51,Moon-or-Sun,Shading with room constraints; Object placement with attack/coverage rules; Hybrid region–shading puzzles,3
+2openai_eef50d51,Akari,Visibility / counting-driven shading; Object placement with attack/coverage rules,2
+2openai_eef50d51,Shakashaka,Visibility / counting-driven shading; Binary / local-state placement; Cell subdivision / geometric fill,3
+2openai_eef50d51,Dotchi-Loop,Edge loop puzzles; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Suraromu,Edge loop puzzles; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Nagareru,Loop with additional movement or directional rules; Maze-like path carving; Hybrid loop–shading puzzles,3
+2openai_eef50d51,Pencils,Loop with additional movement or directional rules; Pair-connection / endpoint linking; Object placement with attack/coverage rules,3
+2openai_eef50d51,Yajilin,Loop with additional movement or directional rules; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Satogaeri,Loop with additional movement or directional rules; Pair-connection / endpoint linking,2
+2openai_eef50d51,Chained Block,Graph/network construction; Polyomino packing,2
+2openai_eef50d51,Evolomino,Graph/network construction; Polyomino packing,2
+2openai_21d5d7ce,Akari,Single-loop / circuit / “draw paths” constraints; “Light / lamp” and illumination constraints,2
+2openai_21d5d7ce,Mid-loop,Single-loop / circuit / “draw paths” constraints; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Slitherlink,Single-loop / circuit / “draw paths” constraints; Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments),2
+2openai_21d5d7ce,Ripple Effect,Single-loop / circuit / “draw paths” constraints; Flow / propagation / spreading puzzles,2
+2openai_21d5d7ce,Hebi,Pair-connection / noncrossing paths; Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,Evolomino,Partition the grid (region tiling / polyomino / rectangles); Partition the grid (region tiling / polyomino / rectangles),2
+2openai_21d5d7ce,Fillomino,Partition the grid (region tiling / polyomino / rectangles); Partition the grid (region tiling / polyomino / rectangles),2
+2openai_21d5d7ce,Shikaku,Partition the grid (region tiling / polyomino / rectangles); Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments),2
+2openai_21d5d7ce,Tilepaint,Partition the grid (region tiling / polyomino / rectangles); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+2openai_21d5d7ce,Five Cells,Number-placement puzzles (cell values must satisfy local/global rules); Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,LITS,Number-placement puzzles (cell values must satisfy local/global rules); Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Usowan,Number-placement puzzles (cell values must satisfy local/global rules); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+2openai_21d5d7ce,Kurodoko,Black/white cell visibility and wall/obstacle placement; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Kurotto,Black/white cell visibility and wall/obstacle placement; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Yosenabe,Black/white cell visibility and wall/obstacle placement; Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,Nagareru,Black/white cell visibility and wall/obstacle placement; Flow / propagation / spreading puzzles,2
+2openai_21d5d7ce,Pencils,Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+1openai_5483c195,Masyu,Loop-drawing puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Slitherlink,Loop-drawing puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Pencils,Path / connection puzzles; Flow,2
+1openai_5483c195,Satogaeri,Path / connection puzzles; Flow,2
+1openai_5483c195,Yajilin,Path / connection puzzles; Flow; Object-counting / adjacency-constrained shading puzzles,3
+1openai_5483c195,Sudoku,Region-division and tiling puzzles; Number-placement / symbol-placement puzzles,2
+1openai_5483c195,Akari,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Heyawake,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Kurodoko,Area-filling / shading puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Kurotto,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,LITS,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Nurikabe,Area-filling / shading puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Shakashaka,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Tilepaint,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Ripple Effect,Number-placement / symbol-placement puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5f7e13f7,Shikaku,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Fillomino,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Double Choco,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Five Cells,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Ripple Effect,Number Placement / Numerical Constraint Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Nuritwin,Number Placement / Numerical Constraint Puzzles; Loop Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,4
+1openai_5f7e13f7,Evolomino,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Sto-stone,Number Placement / Numerical Constraint Puzzles; Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles,3
+1openai_5f7e13f7,Nansuke,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Juosan,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Chained Block,Number Placement / Numerical Constraint Puzzles; Path / Connection Puzzles; Polyomino / Region-Shaping Puzzles,3
+1openai_5f7e13f7,Choco Banana,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Suraromu,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Akari,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nurikabe,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Heyawake,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Kurodoko,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nurimeizu,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Moon-or-Sun,Shading / Unshading Puzzles; Constraint-Placement / Symbol Logic Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Usowan,Shading / Unshading Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Norinori,Shading / Unshading Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Dotchi-Loop,Shading / Unshading Puzzles; Loop Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nagareru,Shading / Unshading Puzzles; Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles; Mixed or Hybrid Grid Logic Puzzles,4
+1openai_5f7e13f7,Masyu,Loop Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Yajilin,Loop Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Mid-loop,Loop Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Hashiwokakero,Loop Puzzles; Path / Connection Puzzles,2
+1openai_5f7e13f7,Sashigane,Loop Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Pencils,Path / Connection Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Satogaeri,Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Shakashaka,Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,2
+1openai_5f7e13f7,Makaro,Polyomino / Region-Shaping Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+3openai_6594eca6,Dotchi-Loop,Single loop on a grid; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Yajilin,Loop/path with directional or clue-cell interaction; Shading with local counting clues; Hybrid Loop–Shading / Loop–Region Puzzles,3
+3openai_6594eca6,Pencils,Loop/path with directional or clue-cell interaction; Object placement with line-of-sight or adjacency rules; Hybrid Loop–Shading / Loop–Region Puzzles,3
+3openai_6594eca6,Sashigane,Loop/path with directional or clue-cell interaction; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Satogaeri,Connecting endpoints / routing; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Akari,Shading with local counting clues; Object placement with line-of-sight or adjacency rules,2
+3openai_6594eca6,Juosan,Shading with local counting clues; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,LITS,Shading with shape/topology constraints; Polyomino placement / packing,2
+3openai_6594eca6,Tilepaint,Shading with shape/topology constraints; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Double Choco,Shading with region-based meaning; Region division with color/class constraints,2
+3openai_6594eca6,Moon-or-Sun,Shading with region-based meaning; Number/symbol placement,2
+3openai_6594eca6,Makaro,Rectangular or orthogonal region partition; Placement into predefined or emerging regions,2
+3openai_6594eca6,Yosenabe,Rectangular or orthogonal region partition; Placement into predefined or emerging regions,2
+3openai_6594eca6,Chained Block,Region division with color/class constraints; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Ripple Effect,Region division with color/class constraints; Number/symbol placement,2
+3openai_6594eca6,Evolomino,Polyomino placement / packing; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Hebi,Object placement with line-of-sight or adjacency rules; Sequence / Adjacency / Ordering Puzzles,2
+3openai_827567f2,Kurotto,Loop-drawing (closed/continuous loops); Loop-drawing (closed/continuous loops),2
+3openai_827567f2,Kurodoko,Grid coloring / dual-state (two-state black/white rules); Grid coloring / dual-state (two-state black/white rules),2
+3openai_827567f2,Nagareru,Walls/Borders/Separation (place walls or enforce separated regions); Walls/Borders/Separation (place walls or enforce separated regions),2
+3openai_827567f2,Nurimeizu,Walls/Borders/Separation (place walls or enforce separated regions); Walls/Borders/Separation (place walls or enforce separated regions),2
+3openai_827567f2,Hitori,Grid coloring / dual-state (two-state black/white rules); Grid coloring / dual-state (two-state black/white rules),2
+2openai_8b0a58f6,Akari,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Kurodoko,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Nurikabe,Shading puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Nurimeizu,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Tilepaint,Shading puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Ripple Effect,Shading puzzles; Numeric constraint puzzles,2
+2openai_8b0a58f6,Moon-or-Sun,Shading puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Usowan,Shading puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Choco Banana,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Double Choco,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Evolomino,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Five Cells,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Nansuke,Region/area puzzles; Numeric constraint puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Satogaeri,Region/area puzzles; Numeric constraint puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Sto-stone,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Nuritwin,Region/area puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Yosenabe,Region/area puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Slitherlink,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Masyu,Loop and path puzzles; Directional/visibility/ray-based puzzles; Connectivity/graph puzzles,3
+2openai_8b0a58f6,Yajilin,Loop and path puzzles; Directional/visibility/ray-based puzzles; Connectivity/graph puzzles,3
+2openai_8b0a58f6,Dotchi-Loop,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Mid-loop,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Nagareru,Loop and path puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Hebi,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Numberlink,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Pencils,Loop and path puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Suraromu,Loop and path puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Sashigane,Loop and path puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Makaro,Loop and path puzzles; Numeric constraint puzzles; Directional/visibility/ray-based puzzles; Exotic hybrid puzzles,4
+2openai_8b0a58f6,Hashiwokakero,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Chained Block,Polyomino tiling puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Juosan,Numeric constraint puzzles; Exotic hybrid puzzles,2
+1openai_a5d270cc,Choco Banana,Loop/Area Partitioning with Polygons or Regions; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Heyawake,Loop/Area Partitioning with Polygons or Regions; Specialized “Set/Choice” Logic Games,2
+1openai_a5d270cc,Shikaku,Loop/Area Partitioning with Polygons or Regions; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Evolomino,Number Fill / Tiling / Placement with Values; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Satogaeri,Edge/Orientation Drawing Games; Graph/Path Drawing Games,2
+3openai_d3eb7678,Shikaku,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Fillomino,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Pencils,Region sizing / exact partition; Multiple paths / pairing / connection; Shape inference from counts or structure,3
+3openai_d3eb7678,Evolomino,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Five Cells,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Chained Block,Region sizing / exact partition; Fixed-shape or tile placement,2
+3openai_d3eb7678,Double Choco,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Choco Banana,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Satogaeri,Region sizing / exact partition; Multiple paths / pairing / connection; Shape inference from counts or structure; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,5
+3openai_d3eb7678,Nurikabe,Region constraints from clues; Black/White Cell Logic,2
+3openai_d3eb7678,Nurimeizu,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Kurodoko,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Kurotto,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Akari,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Ripple Effect,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Hitori,Region constraints from clues; Black/White Cell Logic,2
+3openai_d3eb7678,Makaro,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Nansuke,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Nuritwin,Region constraints from clues; Shape inference from counts or structure; Black/White Cell Logic,3
+3openai_d3eb7678,Nurimisaki,Region constraints from clues; Multiple paths / pairing / connection; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Usowan,Region constraints from clues; Black/White Cell Logic; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Sto-stone,Region constraints from clues; Multiple paths / pairing / connection; Black/White Cell Logic; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Suraromu,Region constraints from clues; Black/White Cell Logic; Clue Matching / Deduction Puzzles,3
+3openai_d3eb7678,Tilepaint,Region constraints from clues; Fixed-shape or tile placement; Black/White Cell Logic,3
+3openai_d3eb7678,Masyu,Single-loop construction; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Dotchi-Loop,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Mid-loop,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Yajilin,Single-loop construction; Directed / arrowed path puzzles; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Nagareru,Single-loop construction; Directed / arrowed path puzzles,2
+3openai_d3eb7678,Hebi,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Yosenabe,Multiple paths / pairing / connection; Clue Matching / Deduction Puzzles,2
+3openai_d3eb7678,LITS,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Shakashaka,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Norinori,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Moon-or-Sun,Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+2openai_eef50d51,Sashigane,Rectangle / orthogonal region partition; Cell subdivision / geometric fill,2
+2openai_eef50d51,Nansuke,Rectangle / orthogonal region partition; Number placement,2
+2openai_eef50d51,Double Choco,General polyomino or free-shape region partition; Hybrid region–shading puzzles,2
+2openai_eef50d51,Choco Banana,General polyomino or free-shape region partition; Hybrid region–shading puzzles,2
+2openai_eef50d51,Five Cells,General polyomino or free-shape region partition; Polyomino packing,2
+2openai_eef50d51,Makaro,General polyomino or free-shape region partition; Number placement,2
+2openai_eef50d51,Heyawake,Area-and-color interaction; Shading with room constraints; Hybrid region–shading puzzles,3
+2openai_eef50d51,Ripple Effect,Area-and-color interaction; Number placement,2
+2openai_eef50d51,Kurodoko,Connectivity-based black/white shading; Visibility / counting-driven shading,2
+2openai_eef50d51,Hitori,Connectivity-based black/white shading; Visibility / counting-driven shading,2
+2openai_eef50d51,Norinori,Connectivity-based black/white shading; Polyomino packing,2
+2openai_eef50d51,Usowan,Connectivity-based black/white shading; Binary / local-state placement,2
+2openai_eef50d51,Hebi,Connectivity-based black/white shading; Maze-like path carving,2
+2openai_eef50d51,Tilepaint,Connectivity-based black/white shading; Binary / local-state placement,2
+2openai_eef50d51,LITS,Shading with room constraints; Polyോമino packing; Hybrid region–shading puzzles,3
+2openai_eef50d51,Yosenabe,Shading with room constraints; Object placement with attack/coverage rules; Hybrid region–shading puzzles,3
+2openai_eef50d51,Moon-or-Sun,Shading with room constraints; Object placement with attack/coverage rules; Hybrid region–shading puzzles,3
+2openai_eef50d51,Akari,Visibility / counting-driven shading; Object placement with attack/coverage rules,2
+2openai_eef50d51,Shakashaka,Visibility / counting-driven shading; Binary / local-state placement; Cell subdivision / geometric fill,3
+2openai_eef50d51,Dotchi-Loop,Edge loop puzzles; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Suraromu,Edge loop puzzles; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Nagareru,Loop with additional movement or directional rules; Maze-like path carving; Hybrid loop–shading puzzles,3
+2openai_eef50d51,Pencils,Loop with additional movement or directional rules; Pair-connection / endpoint linking; Object placement with attack/coverage rules,3
+2openai_eef50d51,Yajilin,Loop with additional movement or directional rules; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Satogaeri,Loop with additional movement or directional rules; Pair-connection / endpoint linking,2
+2openai_eef50d51,Chained Block,Graph/network construction; Polyomino packing,2
+2openai_eef50d51,Evolomino,Graph/network construction; Polyomino packing,2
+2openai_21d5d7ce,Akari,Single-loop / circuit / “draw paths” constraints; “Light / lamp” and illumination constraints,2
+2openai_21d5d7ce,Mid-loop,Single-loop / circuit / “draw paths” constraints; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Slitherlink,Single-loop / circuit / “draw paths” constraints; Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments),2
+2openai_21d5d7ce,Ripple Effect,Single-loop / circuit / “draw paths” constraints; Flow / propagation / spreading puzzles,2
+2openai_21d5d7ce,Hebi,Pair-connection / noncrossing paths; Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,Evolomino,Partition the grid (region tiling / polyomino / rectangles); Partition the grid (region tiling / polyomino / rectangles),2
+2openai_21d5d7ce,Fillomino,Partition the grid (region tiling / polyomino / rectangles); Partition the grid (region tiling / polyomino / rectangles),2
+2openai_21d5d7ce,Shikaku,Partition the grid (region tiling / polyomino / rectangles); Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments),2
+2openai_21d5d7ce,Tilepaint,Partition the grid (region tiling / polyomino / rectangles); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+2openai_21d5d7ce,Five Cells,Number-placement puzzles (cell values must satisfy local/global rules); Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,LITS,Number-placement puzzles (cell values must satisfy local/global rules); Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Usowan,Number-placement puzzles (cell values must satisfy local/global rules); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+2openai_21d5d7ce,Kurodoko,Black/white cell visibility and wall/obstacle placement; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Kurotto,Black/white cell visibility and wall/obstacle placement; Sandwich/indirect placement games with arrow-like or “derived shape” rules,2
+2openai_21d5d7ce,Yosenabe,Black/white cell visibility and wall/obstacle placement; Elimination / “exactly one” counting constraints (islands,2
+2openai_21d5d7ce,Nagareru,Black/white cell visibility and wall/obstacle placement; Flow / propagation / spreading puzzles,2
+2openai_21d5d7ce,Pencils,Snowflake/gear-like inference via constraints on edges/adjacency (arrows/line segments); Specific “polyline/paint/coverage” games (filling patterns with rules),2
+1openai_5483c195,Masyu,Loop-drawing puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Slitherlink,Loop-drawing puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Pencils,Path / connection puzzles; Flow,2
+1openai_5483c195,Satogaeri,Path / connection puzzles; Flow,2
+1openai_5483c195,Yajilin,Path / connection puzzles; Flow; Object-counting / adjacency-constrained shading puzzles,3
+1openai_5483c195,Sudoku,Region-division and tiling puzzles; Number-placement / symbol-placement puzzles,2
+1openai_5483c195,Akari,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Heyawake,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,Kurodoko,Area-filling / shading puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Kurotto,Area-filling / shading puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5483c195,LITS,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Nurikabe,Area-filling / shading puzzles; Maze and traversal puzzles,2
+1openai_5483c195,Shakashaka,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Tilepaint,Area-filling / shading puzzles; Polyomino and shape-placement puzzles,2
+1openai_5483c195,Ripple Effect,Number-placement / symbol-placement puzzles; Object-counting / adjacency-constrained shading puzzles,2
+1openai_5f7e13f7,Shikaku,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Fillomino,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Double Choco,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Five Cells,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Ripple Effect,Number Placement / Numerical Constraint Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Nuritwin,Number Placement / Numerical Constraint Puzzles; Loop Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,4
+1openai_5f7e13f7,Evolomino,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Sto-stone,Number Placement / Numerical Constraint Puzzles; Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles,3
+1openai_5f7e13f7,Nansuke,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Juosan,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Chained Block,Number Placement / Numerical Constraint Puzzles; Path / Connection Puzzles; Polyomino / Region-Shaping Puzzles,3
+1openai_5f7e13f7,Choco Banana,Number Placement / Numerical Constraint Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Suraromu,Number Placement / Numerical Constraint Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Akari,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nurikabe,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Heyawake,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Kurodoko,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nurimeizu,Shading / Unshading Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Moon-or-Sun,Shading / Unshading Puzzles; Constraint-Placement / Symbol Logic Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Usowan,Shading / Unshading Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Norinori,Shading / Unshading Puzzles; Polyomino / Region-Shaping Puzzles,2
+1openai_5f7e13f7,Dotchi-Loop,Shading / Unshading Puzzles; Loop Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Nagareru,Shading / Unshading Puzzles; Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles; Mixed or Hybrid Grid Logic Puzzles,4
+1openai_5f7e13f7,Masyu,Loop Puzzles; Visibility / Line-of-Sight Puzzles,2
+1openai_5f7e13f7,Yajilin,Loop Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Mid-loop,Loop Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Hashiwokakero,Loop Puzzles; Path / Connection Puzzles,2
+1openai_5f7e13f7,Sashigane,Loop Puzzles; Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Pencils,Path / Connection Puzzles; Visibility / Line-of-Sight Puzzles; Mixed or Hybrid Grid Logic Puzzles,3
+1openai_5f7e13f7,Satogaeri,Path / Connection Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+1openai_5f7e13f7,Shakashaka,Polyomino / Region-Shaping Puzzles; Mixed or Hybrid Grid Logic Puzzles,2
+1openai_5f7e13f7,Makaro,Polyomino / Region-Shaping Puzzles; Constraint-Placement / Symbol Logic Puzzles,2
+3openai_6594eca6,Dotchi-Loop,Single loop on a grid; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Yajilin,Loop/path with directional or clue-cell interaction; Shading with local counting clues; Hybrid Loop–Shading / Loop–Region Puzzles,3
+3openai_6594eca6,Pencils,Loop/path with directional or clue-cell interaction; Object placement with line-of-sight or adjacency rules; Hybrid Loop–Shading / Loop–Region Puzzles,3
+3openai_6594eca6,Sashigane,Loop/path with directional or clue-cell interaction; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Satogaeri,Connecting endpoints / routing; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Akari,Shading with local counting clues; Object placement with line-of-sight or adjacency rules,2
+3openai_6594eca6,Juosan,Shading with local counting clues; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,LITS,Shading with shape/topology constraints; Polyomino placement / packing,2
+3openai_6594eca6,Tilepaint,Shading with shape/topology constraints; Hybrid Loop–Shading / Loop–Region Puzzles,2
+3openai_6594eca6,Double Choco,Shading with region-based meaning; Region division with color/class constraints,2
+3openai_6594eca6,Moon-or-Sun,Shading with region-based meaning; Number/symbol placement,2
+3openai_6594eca6,Makaro,Rectangular or orthogonal region partition; Placement into predefined or emerging regions,2
+3openai_6594eca6,Yosenabe,Rectangular or orthogonal region partition; Placement into predefined or emerging regions,2
+3openai_6594eca6,Chained Block,Region division with color/class constraints; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Ripple Effect,Region division with color/class constraints; Number/symbol placement,2
+3openai_6594eca6,Evolomino,Polyomino placement / packing; Sequence / Adjacency / Ordering Puzzles,2
+3openai_6594eca6,Hebi,Object placement with line-of-sight or adjacency rules; Sequence / Adjacency / Ordering Puzzles,2
+3openai_827567f2,Kurotto,Loop-drawing (closed/continuous loops); Loop-drawing (closed/continuous loops),2
+3openai_827567f2,Kurodoko,Grid coloring / dual-state (two-state black/white rules); Grid coloring / dual-state (two-state black/white rules),2
+3openai_827567f2,Nagareru,Walls/Borders/Separation (place walls or enforce separated regions); Walls/Borders/Separation (place walls or enforce separated regions),2
+3openai_827567f2,Nurimeizu,Walls/Borders/Separation (place walls or enforce separated regions); Walls/Borders/Separation (place walls or enforce separated regions),2
+3openai_827567f2,Hitori,Grid coloring / dual-state (two-state black/white rules); Grid coloring / dual-state (two-state black/white rules),2
+2openai_8b0a58f6,Akari,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Kurodoko,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Nurikabe,Shading puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Nurimeizu,Shading puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Tilepaint,Shading puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Ripple Effect,Shading puzzles; Numeric constraint puzzles,2
+2openai_8b0a58f6,Moon-or-Sun,Shading puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Usowan,Shading puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Choco Banana,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Double Choco,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Evolomino,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Five Cells,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Nansuke,Region/area puzzles; Numeric constraint puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Satogaeri,Region/area puzzles; Numeric constraint puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Sto-stone,Region/area puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Nuritwin,Region/area puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Yosenabe,Region/area puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Slitherlink,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Masyu,Loop and path puzzles; Directional/visibility/ray-based puzzles; Connectivity/graph puzzles,3
+2openai_8b0a58f6,Yajilin,Loop and path puzzles; Directional/visibility/ray-based puzzles; Connectivity/graph puzzles,3
+2openai_8b0a58f6,Dotchi-Loop,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Mid-loop,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Nagareru,Loop and path puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Hebi,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Numberlink,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Pencils,Loop and path puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Suraromu,Loop and path puzzles; Polyomino tiling puzzles; Exotic hybrid puzzles,3
+2openai_8b0a58f6,Sashigane,Loop and path puzzles; Directional/visibility/ray-based puzzles,2
+2openai_8b0a58f6,Makaro,Loop and path puzzles; Numeric constraint puzzles; Directional/visibility/ray-based puzzles; Exotic hybrid puzzles,4
+2openai_8b0a58f6,Hashiwokakero,Loop and path puzzles; Connectivity/graph puzzles,2
+2openai_8b0a58f6,Chained Block,Polyomino tiling puzzles; Exotic hybrid puzzles,2
+2openai_8b0a58f6,Juosan,Numeric constraint puzzles; Exotic hybrid puzzles,2
+1openai_a5d270cc,Choco Banana,Loop/Area Partitioning with Polygons or Regions; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Heyawake,Loop/Area Partitioning with Polygons or Regions; Specialized “Set/Choice” Logic Games,2
+1openai_a5d270cc,Shikaku,Loop/Area Partitioning with Polygons or Regions; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Evolomino,Number Fill / Tiling / Placement with Values; Rectangular/Board-Covering / Polyomino-like Games,2
+1openai_a5d270cc,Satogaeri,Edge/Orientation Drawing Games; Graph/Path Drawing Games,2
+3openai_d3eb7678,Shikaku,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Fillomino,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Pencils,Region sizing / exact partition; Multiple paths / pairing / connection; Shape inference from counts or structure,3
+3openai_d3eb7678,Evolomino,Region sizing / exact partition; Shape inference from counts or structure,2
+3openai_d3eb7678,Five Cells,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Chained Block,Region sizing / exact partition; Fixed-shape or tile placement,2
+3openai_d3eb7678,Double Choco,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Choco Banana,Region sizing / exact partition; Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Satogaeri,Region sizing / exact partition; Multiple paths / pairing / connection; Shape inference from counts or structure; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,5
+3openai_d3eb7678,Nurikabe,Region constraints from clues; Black/White Cell Logic,2
+3openai_d3eb7678,Nurimeizu,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Kurodoko,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Kurotto,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Akari,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Ripple Effect,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Hitori,Region constraints from clues; Black/White Cell Logic,2
+3openai_d3eb7678,Makaro,Region constraints from clues; Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Nansuke,Region constraints from clues; Cave / Visibility / Line-of-Sight Puzzles; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Nuritwin,Region constraints from clues; Shape inference from counts or structure; Black/White Cell Logic,3
+3openai_d3eb7678,Nurimisaki,Region constraints from clues; Multiple paths / pairing / connection; Cave / Visibility / Line-of-Sight Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Usowan,Region constraints from clues; Black/White Cell Logic; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Sto-stone,Region constraints from clues; Multiple paths / pairing / connection; Black/White Cell Logic; Clue Matching / Deduction Puzzles,4
+3openai_d3eb7678,Suraromu,Region constraints from clues; Black/White Cell Logic; Clue Matching / Deduction Puzzles,3
+3openai_d3eb7678,Tilepaint,Region constraints from clues; Fixed-shape or tile placement; Black/White Cell Logic,3
+3openai_d3eb7678,Masyu,Single-loop construction; Cave / Visibility / Line-of-Sight Puzzles,2
+3openai_d3eb7678,Dotchi-Loop,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Mid-loop,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Yajilin,Single-loop construction; Directed / arrowed path puzzles; Cave / Visibility / Line-of-Sight Puzzles,3
+3openai_d3eb7678,Nagareru,Single-loop construction; Directed / arrowed path puzzles,2
+3openai_d3eb7678,Hebi,Single-loop construction; Directed / arrowed path puzzles; Symmetry / Adjacency / Local Rule Puzzles,3
+3openai_d3eb7678,Yosenabe,Multiple paths / pairing / connection; Clue Matching / Deduction Puzzles,2
+3openai_d3eb7678,LITS,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Shakashaka,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Norinori,Fixed-shape or tile placement; Symmetry / Adjacency / Local Rule Puzzles,2
+3openai_d3eb7678,Moon-or-Sun,Black/White Cell Logic; Cave / Visibility / Line-of-Sight Puzzles; Symmetry / Adjacency / Local Rule Puzzles; Clue Matching / Deduction Puzzles,4
+2openai_eef50d51,Sashigane,Rectangle / orthogonal region partition; Cell subdivision / geometric fill,2
+2openai_eef50d51,Nansuke,Rectangle / orthogonal region partition; Number placement,2
+2openai_eef50d51,Double Choco,General polyomino or free-shape region partition; Hybrid region–shading puzzles,2
+2openai_eef50d51,Choco Banana,General polyomino or free-shape region partition; Hybrid region–shading puzzles,2
+2openai_eef50d51,Five Cells,General polyomino or free-shape region partition; Polyomino packing,2
+2openai_eef50d51,Makaro,General polyomino or free-shape region partition; Number placement,2
+2openai_eef50d51,Heyawake,Area-and-color interaction; Shading with room constraints; Hybrid region–shading puzzles,3
+2openai_eef50d51,Ripple Effect,Area-and-color interaction; Number placement,2
+2openai_eef50d51,Kurodoko,Connectivity-based black/white shading; Visibility / counting-driven shading,2
+2openai_eef50d51,Hitori,Connectivity-based black/white shading; Visibility / counting-driven shading,2
+2openai_eef50d51,Norinori,Connectivity-based black/white shading; Polyomino packing,2
+2openai_eef50d51,Usowan,Connectivity-based black/white shading; Binary / local-state placement,2
+2openai_eef50d51,Hebi,Connectivity-based black/white shading; Maze-like path carving,2
+2openai_eef50d51,Tilepaint,Connectivity-based black/white shading; Binary / local-state placement,2
+2openai_eef50d51,LITS,Shading with room constraints; Polyോമino packing; Hybrid region–shading puzzles,3
+2openai_eef50d51,Yosenabe,Shading with room constraints; Object placement with attack/coverage rules; Hybrid region–shading puzzles,3
+2openai_eef50d51,Moon-or-Sun,Shading with room constraints; Object placement with attack/coverage rules; Hybrid region–shading puzzles,3
+2openai_eef50d51,Akari,Visibility / counting-driven shading; Object placement with attack/coverage rules,2
+2openai_eef50d51,Shakashaka,Visibility / counting-driven shading; Binary / local-state placement; Cell subdivision / geometric fill,3
+2openai_eef50d51,Dotchi-Loop,Edge loop puzzles; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Suraromu,Edge loop puzzles; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Nagareru,Loop with additional movement or directional rules; Maze-like path carving; Hybrid loop–shading puzzles,3
+2openai_eef50d51,Pencils,Loop with additional movement or directional rules; Pair-connection / endpoint linking; Object placement with attack/coverage rules,3
+2openai_eef50d51,Yajilin,Loop with additional movement or directional rules; Hybrid loop–shading puzzles,2
+2openai_eef50d51,Satogaeri,Loop with additional movement or directional rules; Pair-connection / endpoint linking,2
+2openai_eef50d51,Chained Block,Graph/network construction; Polyomino packing,2
+2openai_eef50d51,Evolomino,Graph/network construction; Polyomino packing,2
+2claude_2d74ae2a,Sudoku,Number Placement Puzzles; Cell-Based; Beginner-Friendly,3
+2claude_2d74ae2a,Nurikabe,Connected Region Shading; Cell-Based; Intermediate Complexity,3
+2claude_2d74ae2a,Kurodoko,Connected Region Shading; Advanced/Complex,2
+2claude_2d74ae2a,Hitori,Connected Region Shading; Cell-Based,2
+2claude_2d74ae2a,Shakashaka,Pattern-Based Shading; Vertex-Based,2
+2claude_2d74ae2a,Heyawake,Regional Division Shading; Hybrid; Intermediate Complexity,3
+2claude_2d74ae2a,Nurimeizu,Regional Division Shading; Advanced/Complex,2
+2claude_2d74ae2a,Slitherlink,Single Loop; Edge-Based; Intermediate Complexity,3
+2claude_2d74ae2a,Masyu,Single Loop; Edge-Based; Beginner-Friendly,3
+2claude_2d74ae2a,Yajilin,Single Loop; Edge-Based,2
+2claude_2d74ae2a,Mid-loop,Single Loop; Edge-Based,2
+2claude_2d74ae2a,Dotchi-Loop,Single Loop; Edge-Based,2
+2claude_2d74ae2a,Numberlink,Multiple Paths; Hybrid,2
+2claude_2d74ae2a,Hashiwokakero,Bridge/Connection Puzzles; Vertex-Based; Beginner-Friendly,3
+2claude_2d74ae2a,Shikaku,Shape-Based Division; Cell-Based; Beginner-Friendly,3
+2claude_2d74ae2a,Fillomino,Shape-Based Division; Cell-Based; Intermediate Complexity,3
+2claude_2d74ae2a,LITS,Tetromino Placement; Intermediate Complexity,2
+2claude_2d74ae2a,Akari,Lighting/Visibility Puzzles; Cell-Based; Beginner-Friendly,3
+2claude_2d74ae2a,Hebi,Lighting/Visibility Puzzles; Advanced/Complex,2
+2claude_2d74ae2a,Satogaeri,Movement/Flow Puzzles; Advanced/Complex,2
+2claude_2d74ae2a,Yosenabe,Movement/Flow Puzzles; Advanced/Complex,2
+1claude_b5277e64,Sudoku,Constraint-based Placement; Numerical Constraints; Beginner-Friendly,3
+1claude_b5277e64,Juosan,Constraint-based Placement; Numerical Constraints; Advanced,3
+1claude_b5277e64,Slitherlink,Single Loop Formation; Connectivity Requirements; Intermediate,3
+1claude_b5277e64,Masyu,Single Loop Formation; Connectivity Requirements; Intermediate,3
+1claude_b5277e64,Dotchi-Loop,Single Loop Formation; Advanced,2
+1claude_b5277e64,Mid-loop,Single Loop Formation; Advanced,2
+1claude_b5277e64,Numberlink,Multiple Path Connection; Connectivity Requirements; Beginner-Friendly,3
+1claude_b5277e64,Hashiwokakero,Multiple Path Connection; Connectivity Requirements; Intermediate,3
+1claude_b5277e64,Hebi,Snake/Chain Paths; Connectivity Requirements; Advanced,3
+1claude_b5277e64,Shikaku,Shape-based Division; Regional Constraints; Beginner-Friendly,3
+1claude_b5277e64,Fillomino,Shape-based Division; Numerical Constraints; Intermediate,3
+1claude_b5277e64,Evolomino,Shape-based Division; Advanced,2
+1claude_b5277e64,Sashigane,Shape-based Division; Regional Constraints; Advanced,3
+1claude_b5277e64,Ripple Effect,Shape-based Division; Numerical Constraints; Advanced,3
+1claude_b5277e64,Five Cells,Size-based Division; Advanced,2
+1claude_b5277e64,Heyawake,Size-based Division; Regional Constraints; Intermediate,3
+1claude_b5277e64,Nurikabe,Connected Region Shading; Adjacency Rules; Intermediate,3
+1claude_b5277e64,Kurodoko,Connected Region Shading; Adjacency Rules; Advanced,3
+1claude_b5277e64,Kurotto,Connected Region Shading; Adjacency Rules; Numerical Constraints; Advanced,4
+1claude_b5277e64,Hitori,Connected Region Shading; Adjacency Rules; Beginner-Friendly,3
+1claude_b5277e64,Usowan,Connected Region Shading; Advanced,2
+1claude_b5277e64,Tilepaint,Dual-state Shading; Advanced,2
+1claude_b5277e64,Nurimeizu,Dual-state Shading; Advanced,2
+1claude_b5277e64,Nuritwin,Dual-state Shading; Advanced,2
+1claude_b5277e64,Norinori,Paired/Grouped Shading; Adjacency Rules; Advanced,3
+1claude_b5277e64,Double Choco,Paired/Grouped Shading; Advanced,2
+1claude_b5277e64,Choco Banana,Paired/Grouped Shading; Advanced,2
+1claude_b5277e64,Nurimisaki,Isolated Cell Shading; Advanced,2
+1claude_b5277e64,Akari,Light & Visibility; Visibility/Line-of-Sight; Beginner-Friendly,3
+1claude_b5277e64,Moon-or-Sun,Light & Visibility; Visibility/Line-of-Sight; Advanced,3
+1claude_b5277e64,LITS,Shape Placement; Advanced,2
+1claude_b5277e64,Shakashaka,Shape Placement; Advanced,2
+1claude_b5277e64,Sto-stone,Stone/Block Placement; Advanced,2
+1claude_b5277e64,Chained Block,Stone/Block Placement; Advanced,2
+1claude_b5277e64,Yajilin,Directional/Arrow Mechanics; Advanced,2
+1claude_b5277e64,Makaro,Directional/Arrow Mechanics; Numerical Constraints; Advanced,3
+1claude_b5277e64,Nagareru,Directional/Arrow Mechanics; Advanced,2
+1claude_b5277e64,Suraromu,Directional/Arrow Mechanics; Advanced,2
+1claude_b5277e64,Satogaeri,Movement/Flow; Advanced,2
+1claude_b5277e64,Yosenabe,Movement/Flow; Regional Constraints; Advanced,3
+1claude_b5277e64,Pencils,Movement/Flow; Advanced,2
+1claude_b5277e64,Nansuke,Movement/Flow; Advanced,2
+3claude_e78b0ccd,Sudoku,Number Placement; Beginner-Friendly,2
+3claude_e78b0ccd,Ripple Effect,Number Placement; Regional/Room-Based,2
+3claude_e78b0ccd,Fillomino,Region Division/Partition; Number Counting; Beginner-Friendly,3
+3claude_e78b0ccd,Shikaku,Region Division/Partition; Regional/Room-Based; Beginner-Friendly,3
+3claude_e78b0ccd,Sashigane,Region Division/Partition; Advanced,2
+3claude_e78b0ccd,Evolomino,Region Division/Partition; Expert/Niche,2
+3claude_e78b0ccd,Yosenabe,Region Division/Partition; Regional/Room-Based,2
+3claude_e78b0ccd,Slitherlink,Single Loop; Number Counting; Intermediate,3
+3claude_e78b0ccd,Masyu,Single Loop; Intermediate,2
+3claude_e78b0ccd,Mid-loop,Single Loop; Expert/Niche,2
+3claude_e78b0ccd,Yajilin,Single Loop; Advanced,2
+3claude_e78b0ccd,Numberlink,Multiple Paths/Connections; Connectivity Requirements; Beginner-Friendly,3
+3claude_e78b0ccd,Hashiwokakero,Multiple Paths/Connections; Number Counting; Connectivity Requirements; Intermediate,4
+3claude_e78b0ccd,Nagareru,Multiple Paths/Connections; Connectivity Requirements; Expert/Niche,3
+3claude_e78b0ccd,Nurikabe,Connected Shading; Adjacency Rules; Connectivity Requirements; Intermediate,4
+3claude_e78b0ccd,Kurodoko,Connected Shading; Adjacency Rules,2
+3claude_e78b0ccd,Heyawake,Connected Shading; Regional/Room-Based; Intermediate,3
+3claude_e78b0ccd,Kurotto,Connected Shading; Number Counting; Advanced,3
+3claude_e78b0ccd,Hitori,Pattern-Based Shading; Adjacency Rules; Intermediate,3
+3claude_e78b0ccd,Sto-stone,Pattern-Based Shading; Expert/Niche,2
+3claude_e78b0ccd,Usowan,Pattern-Based Shading; Expert/Niche,2
+3claude_e78b0ccd,Norinori,Paired/Twin Shading; Adjacency Rules,2
+3claude_e78b0ccd,Double Choco,Paired/Twin Shading; Adjacency Rules,2
+3claude_e78b0ccd,Nuritwin,Paired/Twin Shading; Expert/Niche,2
+3claude_e78b0ccd,LITS,Shape/Polyomino Placement; Regional/Room-Based; Advanced,3
+3claude_e78b0ccd,Shakashaka,Shape/Polyomino Placement; Advanced,2
+3claude_e78b0ccd,Satogaeri,Shape/Polyomino Placement; Advanced,2
+3claude_e78b0ccd,Akari,Light & Vision; Number Counting; Beginner-Friendly,3
+3claude_e78b0ccd,Nurimisaki,Light & Vision; Advanced,2
+3claude_e78b0ccd,Hebi,Sequential/Maze Navigation; Connectivity Requirements,2
+3claude_e78b0ccd,Suraromu,Sequential/Maze Navigation; Expert/Niche,2

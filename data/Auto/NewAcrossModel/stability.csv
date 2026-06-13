@@ -1,0 +1,5 @@
+experiment_id,scope,total_pairs,always_together,stability_score
+NewAcrossModel,claude,583,34,0.0583
+NewAcrossModel,gemini,180,21,0.1167
+NewAcrossModel,openai,94,18,0.1915
+NewAcrossModel,experiment,630,7,0.0111

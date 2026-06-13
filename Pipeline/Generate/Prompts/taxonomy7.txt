@@ -1,0 +1,44 @@
+Generate a simple single depth hierarchical taxonomy of grid based logic games, populated with all of the following games and no additional games, placed into one and only one of 7 categories (no duplicates or subcategories):
+
+Akari
+Chained Block
+Choco Banana
+Dotchi-Loop
+Double Choco
+Evolomino
+Five Cells
+Fillomino
+Hashiwokakero
+Hebi
+Heyawake
+Hitori
+Juosan
+Kurodoko
+Kurotto
+LITS
+Masyu
+Nagareru
+Nansuke
+Norinori
+Nurimeizu
+Nurimisaki
+Makaro
+Mid-loop
+Moon-or-Sun
+Numberlink
+Nurikabe
+Nuritwin
+Pencils
+Ripple Effect
+Sashigane
+Satogaeri
+Shakashaka
+Shikaku
+Slitherlink
+Sto-stone
+Sudoku
+Suraromu
+Tilepaint
+Usowan
+Yajilin
+Yosenabe

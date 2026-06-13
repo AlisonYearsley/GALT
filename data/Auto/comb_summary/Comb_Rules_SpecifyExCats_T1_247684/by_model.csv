@@ -1,0 +1,10 @@
+experiment_id,model_id,num_records,num_categories,num_subcategories,num_games,dist_min,dist_mean,dist_max,dist_stdev,avg_path_length,num_edges,num_nodes,recall,precision,f1,num_hallucinations,edit_dist_experiment,edit_dist_model
+Comb_Rules_SpecifyExCats_T1_247684,claude-haiku-4-5-20251001,1,7.0,0.0,41.667,3.333,5.953,9.0,2.197,2.0,48.667,49.667,0.992,1.0,0.996,0.0,38.667,16.667
+Comb_Rules_SpecifyExCats_T1_247684,claude-opus-4-6,1,7.0,0.0,42.0,2.333,6.0,11.667,3.193,2.0,49.0,50.0,1.0,1.0,1.0,0.0,39.0,4.0
+Comb_Rules_SpecifyExCats_T1_247684,claude-sonnet-4-6,1,7.0,0.0,42.0,0.667,6.0,10.333,3.253,2.0,49.0,50.0,1.0,1.0,1.0,0.0,39.0,15.333
+Comb_Rules_SpecifyExCats_T1_247684,gpt-5.4-2026-03-05,1,6.333,0.0,39.333,2.333,6.267,13.0,4.16,2.0,45.667,46.667,1.0,1.0,1.0,0.0,36.333,10.667
+Comb_Rules_SpecifyExCats_T1_247684,gpt-5.4-mini-2026-03-17,1,7.0,0.0,42.0,0.0,6.0,12.333,4.42,2.0,49.0,50.0,1.0,1.0,1.0,0.0,39.0,17.667
+Comb_Rules_SpecifyExCats_T1_247684,gpt-5.4-nano-2026-03-17,1,6.667,0.0,41.0,0.0,6.177,14.667,5.347,2.0,47.667,48.667,0.992,1.0,0.996,0.0,38.0,28.333
+Comb_Rules_SpecifyExCats_T1_247684,models/gemini-2.5-flash,1,7.0,0.0,42.0,1.667,6.0,11.333,3.523,2.0,49.0,50.0,1.0,1.0,1.0,0.0,39.0,15.667
+Comb_Rules_SpecifyExCats_T1_247684,models/gemini-2.5-flash-lite,1,6.667,0.0,39.333,1.0,5.897,14.667,4.843,2.0,46.0,47.0,0.984,1.0,0.992,0.0,35.0,21.667
+Comb_Rules_SpecifyExCats_T1_247684,models/gemini-2.5-pro,1,7.0,0.0,42.0,3.333,6.0,11.333,2.817,2.0,49.0,50.0,1.0,1.0,1.0,0.0,39.0,12.0
